@@ -1,0 +1,854 @@
+- code: TOS
+  name: "Star Trek"
+  seasons:
+    - season: 1
+      episodes:
+      - code: S01E01
+        duration: 48
+        number: 1
+        title: "The Man Trap"
+        summary: A mysterious creature stalks the Enterprise, murdering crew members. (Series Premiere/Franchise Debut)
+        trek_id: 113
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Man_Trap_(episode)
+        randomtrek:
+          date: 2016-09-08
+          description: >
+            Today marks the 50th anniversary of the very first broadcast of the very first episode of the very first Star Trek series. To celebrate Scott has thrown aside the random nature of this podcast and invited Marisa McClellan, canning expert, to discuss TOS’s The Man Trap (S1E5). Topics include how this isn’t technically the first episode of Star Trek, the delicious nature of salt, and just what the heck a yeoman does anyway.
+          guest: Marisa McClellan
+      - code: S01E27
+        duration: 47
+        number: 27
+        title: "Errand of Mercy"
+        summary: Kirk and Spock try to protect the planet Organia from the Klingons, but the natives don't want the Federation's help.
+        trek_id: 9
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Errand_of_Mercy_(episode)
+        randomtrek:
+          date: 2014-07-24
+          description: >
+            Erika Ensign, frequent Incomparable panelist and Hugo nominated (!) Verity Podcast member, classes up the joint with Scott to discuss the TOS episode Errand of Mercy).
+
+            What’s the deal with the blue jumpsuited man Scott is obsessed with? How come every Klingon doesn’t get a sash? And is Captain Kirk a warrior, explorer, lover or all of the above?
+          guest: Erika Ensign
+
+    - season: 2
+      episodes:
+      - code: S02E09
+        duration: 48
+        number: 9
+        title: "The Apple"
+        summary: The Enterprise crew discovers an Eden-like paradise on Gamma Trianguli VI, controlled by a machine that is revered by the local humanoid primitives as a god.
+        trek_id: 7
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Apple_(episode)
+        randomtrek:
+          date: 2014-07-10
+          description: >
+            Steve Lutz, of The Incomparable, joins Scott to discuss The Original Series’ “The Apple.”
+
+            Vaal loves us all, except Spock. Steve loves most of us but totally not Chekov.
+
+            This episode features the Star Trek crew beaming onto paradise, but all is not as it seems.
+          guest: Steve Lutz
+      - code: S02E21
+        duration: 45
+        number: 21
+        title: "By Any Other Name"
+        trek_id: 2
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/By_Any_Other_Name_(episode)
+        randomtrek:
+          date: 2014-06-05
+          description: >
+            Dan Moren of The Incomparable and Not Playing fame joins Scott to talk about Random Trek’s first Original Series episode: By Any Other Name (S2E21).
+
+            The Galactic Barrier will be breached as topics such as Kirk’s worthiness as a captain and the difficulty of acting as though you’re frozen are discussed.
+          guest: Dan Moren
+
+    - season: 3
+      episodes:
+
+- code: TNG
+  name: "Star Trek: The Next Generation"
+  seasons:
+    - season: 1
+      episodes:
+      - code: S01E14
+        duration: 48
+        number: 14
+        title: "Angel One"
+        summary: "While Riker leads an away team to a female-dominated planet, a mysterious virus spreads among the Enterprise crew."
+        trek_id: 92
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Angel_One_(episode)
+        randomtrek:
+          date: 2016-03-24
+          description: >
+            Alan R. C. Raventree, clockmaker and Trek fan, joins Scott to discuss TNG’s Angel One (S1E14). Topics include misplaced freighters, what makes a grandfather clock tick, Riker’s chest hair, and lots and lots of ship talk.
+          guest: Alan R. C. Raventree
+      - code: S01E22
+        duration: 40
+        number: 22
+        title: "Symbiosis"
+        summary: "After the Enterprise-D rescues a freighter crew and the ship's important cargo, Captain Picard faces a difficult dilemma: uphold the Prime Directive, or save an entire civilization from exploitation?"
+        trek_id: 60
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Symbiosis_(episode)
+        randomtrek:
+          date: 2015-07-17
+          description: >
+            Courtney Wilburn, web developer and Levar Burton fan, joins Scott to discuss Symbiosis (TNG S1E22). This is a very special episode of TNG where we learn about the perils of addiction and the questionable tactic of having your entire planet’s economy depend on one crop. Interesting fashion, the allure of TNG, and questions about Dr. Crusher’s medical acumen are all discussed as is the Prime Directive and how Capt. Picard seems to apply it capriciously in this episode.
+          guest: Courtney Wilburn
+      - code: S01E23
+        duration: 43
+        number: 23
+        title: "Skin of Evil"
+        summary: "A rescue operation to save the lives of a shuttle crew becomes complicated thanks to a malevolent entity, and one Enterprise-D crew member pays the ultimate price in their rescue."
+        trek_id: 96
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Skin_Of_Evil_(episode)
+        randomtrek:
+          date: 2016-04-28
+          description: >
+            Pete the Retailer, co-host of AlphaBeatical and Star Wars Minute, joins Scott to discuss TNG’s Skin of Evil (S1E23). Shed a tear for Tasha Yar, watch out for mobile oil slicks, and don’t worry about the shuttle pilot (no one on the episode does!).
+          guest: Pete the Retailer
+      - code: S01E25
+        duration: 45
+        number: 25
+        title: "Conspiracy"
+        summary: After Captain Picard receives a dark warning from an old friend, the Enterprise-D returns to Earth to stop an alien invasion from taking over Starfleet Command.
+        trek_id: 11
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Conspiracy_(episode)
+        randomtrek:
+          date: 2014-08-07
+          description: >
+            Michael T. Rose, of TUAW, joins Scott to discuss the first season The Next Generation episode Conspiracy.
+
+            Put on your tin foil hat and watch out for Trapper Keepers. Aliens have infiltrated the highest ranks of Starfleet Command and Riker is pretty ok with it.
+
+            Will Picard join the clean plate club? Can Starfleet survive is Data is the last man standing? Why are all the elderly Admirals wearing the pajamas? All these questions, and more, are discussed in this episode.
+          guest: Michael T. Rose
+
+    - season: 2
+      episodes:
+      - code: S02E03
+        duration: 49
+        number: 3
+        title: "Elementary, Dear Data"
+        summary: The Enterprise is threatened when a character in Data and La Forge's holodeck simulation becomes sentient.
+        trek_id: 104
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Elementary,_Dear_Data_(episode)
+        randomtrek:
+          date: 2016-07-07
+          description: >
+            Marshall Honorof, tech writer, joins Scott to discuss TNG’s “Elementary, Dear Data” (S2E3). Topics include why Capt. Picard doesn’t just shutdown the holodeck, if Geordi sees everything upside down, and The Nanny.
+          guest: Marshall Honorof
+      - code: S02E05
+        duration: 45
+        number: 5
+        title: "Loud as a Whisper"
+        summary: The Enterprise brings a deaf negotiator to mediate the end of a planetary civil war.
+        trek_id: 45
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Load_As_A_Whisper_(episode)
+        randomtrek:
+          date: 2015-04-02
+          description: >
+            Myke Cole, writer and Capt. America fan, joins Scott to talk about Loud As A Whisper (TNG S2E5).
+
+            We discuss how accurate the depiction of the military is on TNG, why it is ok that Wesley is driving the Enterprise, the state of lighting on Solais V, and use the phrase “lust warrior” fairly often. We also talk about how this episode has so many good themes, and yet still comes off a little bit on the wrong foot. Also, Riva’s hair.
+          guest: Myke Cole
+      - code: S02E09
+        duration: 45
+        number: 9
+        title: "The Measure of a Man"
+        summary: Picard must prove Data is legally a sentient being with rights and freedoms under Federation law when transfer orders demand Data's reassignment for study and disassembly.
+        trek_id: 29
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/The_Measure_Of_A_Man_(episode)
+        randomtrek:
+          date: 2014-12-11
+          description: >
+            Brett Terpstra, a man of many projects, joins Scott to discuss The Measure of a Man (TNG S2E9).
+
+            Such topics as the existence of souls, how to disarm (literally) an android, and how Riker evolves as a character are all touched upon.
+          guest: Brett Terpstra
+      - code: S02E15
+        duration: 46
+        number: 15
+        title: "Pen Pals"
+        summary: Data makes contact with a young girl from a pre-warp civilization on a planet facing imminent annihilation. The Enterprise must wrestle with the moral dilemma of violating the Prime Directive or standing by while Data's friend dies.
+        trek_id: 28
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Pen_Pals_(episode)
+        randomtrek:
+          date: 2014-12-04
+          description: >
+            Deborah Stanish, of the Verity Podcast (all about Dr. Who), joins Scott to discuss Pen Pals (TNG S2E15). They ponder the ramifications of the Prime Directive, the Riker School of Management vs. the Picard School of Management, wiping someone's memory without permission, and horse riding.
+          guest: Deborah Stanish
+      - code: S02E20
+        duration: 41
+        number: 20
+        title: "The Emissary"
+        summary: The Enterprise crew has to deal with a Klingon sleeper ship whose occupants don't know the Federation and Klingons are at peace. On-board to help them is an emissary, who (coincidentally) is one of Worf's former love interests.
+        trek_id: 87
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/The_Emissary_(episode)
+        randomtrek:
+          date: 2016-02-18
+          description: >
+            Maia Weinstock, editor, writer, and LEGO enthusiast, joins Scott to discuss TNG’s The Emissary (S2E20). Topics include admirals’ uniforms, Klingon mating rituals, Khelyr’s wardrobe, and ridiculous birdmen.
+          guest: Maia Weinstock
+      - code: S02E22
+        duration: 45
+        number: 22
+        title: "Shades of Gray"
+        summary: Commander Riker fights for his life in sickbay after he is infected by an alien parasite while on an away-mission. Dr. Pulaski soon discovers that the only way to save Riker's life is to force his mind to relive painful memories.
+        trek_id: 37
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Shades_Of_Gray_(episode)
+        randomtrek:
+          date: 2015-02-05
+          description: >
+            Casey Liss, of the Accidental Tech Podcast and Analog(ue), joins Scott to discuss “Shades of Gray” (TNG S2E22). Widely, and correctly, hailed as the worst episode of TNG ever this podcast covers everything from Starfleet Medical’s lax attitude towards quarantining people to the expensive nature of filming a TV show. Did I mention Shades of Gray is a clip show? In the second season of TNG? It isn’t good, people. Not at all.
+          guest: Casey Liss
+
+    - season: 3
+      episodes:
+      - code: S03E01
+        duration: 45
+        number: 1
+        title: "Evolution"
+        summary: An obsessed scientist arrives on the Enterprise-D to perform a once-in-a-lifetime experiment. Accidentally released nanites, however, threaten both it and the ship.
+        trek_id: 34
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Evolution_(episode)
+        randomtrek:
+          date: 2015-01-15
+          description: >
+            Chip Sudderth, a host of the Audio Guide to Babylon 5 and host of the Two Minute Time Lord, joins Scott to talk about Evolution (TNG S3E1). Wesley is front and center in this episode and that isn’t as bad as you might think. Hungry, hungry nanobots, sabermetrics, and the proper collars for Star Fleet uniforms are discussed. You’ll also find out what costume Scott would dress up in if he had to cosplay at a Star Trek convention.
+          guest: Chip Sudderth
+      - code: S03E02
+        duration: 44
+        number: 2
+        title: "The Ensigns of Command"
+        summary: 
+        trek_id: 44
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/The_Ensigns_Of_Command_(episode)
+        randomtrek:
+          date: 2015-03-26
+          description: >
+            Annalee Flower Horne, science fiction writer and web developer, joins Scott to talk about The Ensigns of Command (TNG S3E2).
+
+            We discuss how impossible the impossible is, how many showers Riker takes during a typical TNG episode, and the very important lesson Data learns about kissing.
+          guest: Annalee Flower Horne
+      - code: S03E04
+        duration: 44
+        number: 4
+        title: "Who Watches The Watchers"
+        summary: The Enterprise must undo the damage when a primitive civilization discovers a Federation observation team and concludes that the Starfleet personnel are gods.
+        trek_id: 26
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Who_Watches_The_Watchers_(episode)
+        randomtrek:
+          date: 2017-02-10
+          description: >
+            Guy English, of Aged and Distilled and Debug, joins Scott to chat about "Who Watches The Watchers" (TNG S3E4). Religion vs. mythology, poor archery skills, Romulans, the ethics of creepily observing developing societies, and who loves the Prime Directive most are all covered during this episode.
+
+            Don't miss your chance to buy a Random Trek Shirt, now available for a limited time.
+          guest: Guy English
+      - code: S03E09
+        duration: 45
+        number: 9
+        title: "The Vengeance Factor"
+        summary: The Enterprise tries to negotiate an end to raids launched by a group called the "Gatherers," but a murder threatens to prevent peace.
+        trek_id: 120  
+        imdb_id: tt0708824
+        overcast_id: +Bum2ZG6v0
+        alpha: http://memory-alpha.wikia.com/wiki/The_Vengeance_Factor_(episode)
+        randomtrek:
+          date: 2016-10-28
+          description: >
+            A big mystery! Which is solved very quickly. Riker puts it on pretty heavily (though respectfully). And Scott and Glenn talk a lot (too much?) about how the replicators work.
+          guest: Glenn Fleischman
+      - code: S03E12
+        duration: 47
+        number: 12
+        title: "The High Ground"
+        summary: Doctor Crusher is captured by terrorists who want to involve the Federation in their struggle for freedom.
+        trek_id: 99
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_High_Ground_(episode)
+        randomtrek:
+          date: 2016-06-03
+          description: >
+            Darren Franich, Entertainment Weekly writer and co-host of the Vidiots Video Store Show, joins Scott to discuss TNG’s The High Ground (S3E12). A lot of time is spent talking about the Trek movies, books, video games, and not so much time talking about The High Ground.
+          guest: Darren Franich
+      - code: S03E25
+        duration: 43
+        number: 25
+        title: "Transfigurations"
+        summary: The Enterprise rescues a critically injured amnesiac who is undergoing a mysterious transformation.
+        trek_id: 135
+        imdb_id: tt0708824
+        overcast_id: +Bum2ZG6v0
+        alpha: http://memory-alpha.wikia.com/wiki/The_Vengeance_Factor_(episode)
+        randomtrek:
+          date: 2017-02-10
+          description: >
+            Len Weeb, creator and producer of the Black Tribbles, joins Scott to talk about TNG’s Transfigurations (S3E25). Geordi talks a woman, O’Brien kayaks, and another energy blob leaves the ship.
+
+            Special thanks to Radio Theater’s David J. Loehr for the use of his silky smooth radio guy voice.
+          guest: Len Weeb
+
+    - season: 4
+      episodes:
+      - code: S04E05
+        duration: 45
+        number: 5
+        title: "Remember Me"
+        summary: Following an anomaly in a warp bubble experiment, Dr. Crusher finds that crewmembers are beginning to disappear, while she is the only one who seems to notice.
+        trek_id: 15
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Timescape_(episode)
+        randomtrek:
+          date: 2014-09-04
+          description: >
+            Jacqui Cheng, Editor-in-chief of The Wirecutter, joins Scott to talk about TNG’s Remember Me (S4E5). In this episode who let Wesley fiddle with the Warp core and why, The Traveller as “Q Light,” and how Dr. Crusher definitely isn’t crazy (despite all the men thinking otherwise).
+          guest: Jacqui Cheng
+      - code: S04E07
+        duration: 45
+        number: 7
+        title: "Reunion"
+        trek_id: 6
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Reunion_(episode)
+        randomtrek:
+          date: 2014-07-03
+          description: >
+            John Moltz, who has a Very Nice Website and co-hosts Turning This Car Around, joins Scott to discuss Random Trek's first Klingon heavy episode\: TNG's Reunion.
+
+            Grab a bat'leth, chill some Klingon bloodwine, and get ready to delve into the intricacies of the Klingon Empire's sometimes complicated rite of Succession (unless you use the EZ form). Also, Alexander makes his first appearance and anomalies are ignored. This episode has it all!
+          guest: John Moltz
+      - code: S04E08
+        duration: 50
+        number: 8
+        title: "Future Imperfect"
+        summary: After an away mission to Alpha Onias III interrupts Commander Riker's birthday party, the first officer suddenly awakens in sick-bay sixteen years in the future where he is the captain of the Enterprise and about to negotiate a peace treaty with the Romulan Star Empire.
+        trek_id: 122
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Future_Imperfect_(episode)
+        randomtrek:
+          date: 2016-11-10
+          description: >
+            Adam Teterus, Comic Book Junto co-host, Indy Hall booster, and writer, joins Scott to discuss TNG’s “Future Imperfect” (S4E8). Birthday cake, manthings, and the shockingly long time it takes Starfleet officers to advance in the ranks are all discussed.
+          guest: Adam Teterus
+      - code: S04E14
+        duration: 44
+        number: 14
+        title: "Clues"
+        summary: The crew of the Enterprise wakes up after apparently passing through a wormhole, finding mysteries surrounding their blackout. Data begins to act suspiciously, prompting the command staff to wonder if he has been compromised.
+        trek_id: 42
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Clues_(episode)
+        randomtrek:
+          date: 2015-03-12
+          description: >
+            Carrie Ann Castillo, the woman behind The Little Big Blog joins Scott to discuss “Clues” (TNG S4E14). There’s a mystery afoot. How do we know this? Well, the episode is called “Clues” and Capt. Picard keeps reminding us that there’s a mystery to solve. Data is acting oddly, Troi gets possessed, and the growth rate of moss is a super important plot point. What more can you ask from an episode of Star Trek?
+          guest: Carrie Ann Castillo
+      - code: S04E15
+        duration: 45
+        number: 15
+        title: "First Contact"
+        summary: An injury to Commander Riker during a reconnaissance mission threatens the prospects for first contact with a culture on the verge of warp travel.
+        trek_id: 20
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/First_Contact_(episode)
+        randomtrek:
+          date: 2014-10-09
+          description: >
+            Tony Sindelar, the Incomparable and co-DM of Total Party Kill, joins Scott to discuss TNG’s First Contact (S4E15).
+
+            Topics include Riker’s total lack of guile, Malcorian facial hair, the naming of planets, alien groupies, and when it is appropriate to beam somewhere.
+          guest: Tony Sindelar
+      - code: S04E18
+        duration: 44
+        number: 18
+        title: "Identity Crisis"
+        summary: La Forge and a former shipmate are the only officers left from an away mission five years ago. The others have transformed into aliens and disappeared.
+        trek_id: 43
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Identity_Crisis_(episode)
+        randomtrek:
+          date: 2015-03-19
+          description: >
+            Victor Agreda Jr., Angry Dad Gamer and the man behind the Bakers Dozen Rules, joins Scott to discuss “Identity Crisis” (TNG S4E18). Topics include Geordi’s love live, how effects from the 90’s hold up to the HD treatment, and the impacts of Google Glass on the Federation.
+          guest: Victor Agreda Jr.
+      - code: S04E22
+        duration: 46
+        number: 22
+        title: "Half a Life"
+        summary: Lwaxana Troi causes trouble when she finds out that a scientist she has fallen in love with is due to commit ritual suicide.
+        trek_id: 112
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Half_A_Life_(episode)
+        randomtrek:
+          date: 2016-09-01
+          description: >
+            John Gruber, the most daring of fireballs, joins Scott to discuss TNG’s Half a Life (S4E220). Topics cover what to order at a steakhouse, what to order at a specific steakhouse (Barclay Prime), Picard’s odd behaviour, and our thoughts about Lwaxana and why no one ever says to her, “You sound an awful lot like the computer.”
+          guest: John Gruber
+
+    - season: 5
+      episodes:
+      - code: S05E02
+        duration: 44
+        number: 2
+        title: "Darmok"
+        summary: Picard is captured, then trapped on a planet with an alien captain who speaks a metaphorical language incompatible with the universal translator. They must learn to communicate with each other before a deadly planetary beast overwhelms them.
+        trek_id: 31
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Darmok_(episode)
+        randomtrek:
+          date: 2014-12-25
+          description: >
+            Christina Warren, tech analyst, podcaster, and internet maven, joins Scott to talk about “Darmok” (TNG S5E2). Does this episode of TNG live up to the hype? Is Capt. Picard a their? And were did he get his Members Only jacket? All this plus Emoji on this Christmas episode of Random Trek.
+          guest: Christina Warren
+      - code: S05E06
+        duration: 45
+        number: 6
+        title: "The Game"
+        summary: Wesley Crusher visits the Enterprise only to see everyone behaving strangely on account of an addictive, mind-controlling game.
+        trek_id: 125
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Game_(episode)
+        randomtrek:
+          date: 2016-12-01
+          description: >
+            Chip Sudderth, Incomparable panelist and Babylon 5 enthusiast joins Scott to discuss TNG’s “The Game” (S5E6). What’s up with Risa? Why does the Game not look like much fun at all? And whatever happened to that Ashley Judd?
+          guest: Chip Sudderth
+      - code: S05E15
+        duration: 42
+        number: 15
+        title: "Power Play"
+        summary: Alien entities take over the minds of Data, Troi, and Miles O'Brien.
+        trek_id: 136
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Power_Play_(episode)
+        randomtrek:
+          date: 2017-02-16
+          description: >
+            Anne Zander, actor, writer, and improviser, joins Scott to talk about TNG’s Power Play (S5E15). On this episode we talk about how creepy it is for familiar characters to act very differently, we question Riker’s leg placement, a doorbell rings, and glittery convicts gather in a cylinder.
+          guest: Anne Zander
+      - code: S05E25
+        duration: 44
+        number: 25
+        title: "The Inner Light"
+        summary: An alien probe controls and disables Captain Picard, who wakes up as "Kamin," a resident of the planet Kataan. While the crew of the Enterprise tries to jar the probe's influence, "Kamin" lives through the final, dying decades of his homeworld in the span of approximately twenty minutes in the form of an interactive "ancestor simulation"
+        trek_id: 126
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Inner_Light_(episode)
+        randomtrek:
+          date: 2016-12-09
+          description: >
+            Gerry Canavan, prof at Marquette University, joins Scott to talk about TNG’s The Inner Light (S5E25). Another episode considered one of the best ever, but does it hold up? Yes, it does. Does the probe make any sense? Not so much. Does that matter? Listen and find out!
+          guest: Gerry Canavan
+      - code: S05E24
+        duration: 44
+        number: 24
+        title: "The Next Phase"
+        summary: Geordi La Forge and Ensign Ro are believed dead after a transporter malfunction. However, they soon discover that their state may not actually be "death".
+        trek_id: 94
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Next_Phase_(episode)
+        randomtrek:
+          date: 2016-04-14
+          description: >
+            Justin Michael, Star Trek fan, editor of Less than or Equal, and problem solver, joins Scott to discuss TNG’s The Next Phase (S5E24). Romulans, being out of phase, not thinking too hard about science, close talkers, and Ensign Ro are just a few of the topics covered in this episode.
+          guest: Justin Michael
+      - code: S05E26
+        duration: 46
+        number: 26
+        title: "Time's Arrow"
+        summary: "An engineering team finds evidence of an alien presence on Earth in 19th century San Francisco: Data's severed head, buried five hundred years ago."
+        trek_id: 86
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Time's_Arrow_(episode)
+        randomtrek:
+          date: 2016-02-11
+          description: >
+            David Gian-Cursio, 3D artist, joins Scott to discuss TNG’s Time’s Arrow Parts 1 and 2 (S5E26, S6E1). Topics include the 2016 Star Trek Ships of the Line calendar (in which David is the artist of February’s ship!), the fan art community, our favorite Star Trek movies, favorite characters, and also Time’s Arrow.
+          guest: David Gian-Cursio
+    - season: 6
+      episodes:
+      - code: S06E01
+        duration: 47
+        number: 1
+        title: "Time's Arrow Part II"
+        summary: "Trapped in 19th century San Francisco, the crew of the Enterprise must locate Data and prevent his death while stopping the Devidians from destroying Earth's history."
+        trek_id: 86
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Time's_Arrow,_Part_II_(episode)
+        randomtrek:
+          date: 2016-02-11
+          description: >
+            David Gian-Cursio, 3D artist, joins Scott to discuss TNG’s Time’s Arrow Parts 1 and 2 (S5E26, S6E1). Topics include the 2016 Star Trek Ships of the Line calendar (in which David is the artist of February’s ship!), the fan art community, our favorite Star Trek movies, favorite characters, and also Time’s Arrow.
+          guest: David Gian-Cursio
+      - code: S06E06
+        duration: 45
+        number: 6
+        title: "Man of the People"
+        summary: "As an ambassador mediates peace talks to end a fierce civil war, Deanna Troi begins to act erratically after spending some time with him."
+        trek_id: 61
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Man_Of_The_People_(episode)
+        randomtrek:
+          date: 2015-07-23
+          description: >
+            Marcos Huerta, astronomer, latino, and huge Trek/Sci-fi fan, joins Scott to discuss Man of the People (TNG S6E3). This episode is all Troi all the time (well, it is a lot of Troi, a lot of the time). Topics include how Troi’s character is largely defined by her relationships with other characters, the problematic nature of telepathy, 24th century medaitaror’s shocking lack of prepration for their jobs, and the astounding fact that Star Trek III isn’t as bad as you remember it.
+          guest: Marcos Huerta
+      - code: S06E10
+        duration: 45
+        number: 10
+        title: "The Chase"
+        summary: "Picard tries to finish his old archaeology teacher's monumental last mission: solving a puzzle that leads Humans, Romulans, Klingons and Cardassians to the secret of life in this galaxy, revealing the origin of humanoid life."
+        trek_id: 32
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Chase_(episode)
+        randomtrek:
+          date: 2015-01-01
+          description: >
+            Anže Tomić, podcaster and writer, joins Scott to talk about “The Chase” (TNG S6E10). This episode answers the question: why do all Star Trek aliens look a like? And the answer isn’t that great (turns out). We also discuss our favorite Trek movies, if this episode should have been a two parter, and why the Cardassians rock.
+          guest: Anže Tomić
+      - code: S06E12
+        duration: 44
+        number: 12
+        title: "Ship in a Bottle"
+        summary: "Professor Moriarty returns, only this time he gains control of the Enterprise in his quest to leave the holodeck."
+        trek_id: 127
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Ship_In_A_Bottle_(episode)
+        randomtrek:
+          date: 2016-12-15
+          description: >
+            Steven Schapansky, Dr. Who fan and podcast producer, joins Scott to talk about TNG’s Ship in a Bottle (S6E12). This episode begs the question: why are holodecks allowed on starships? At least Reg is there to help realign some stuff.
+          guest: Steven Schapansky
+      - code: S06E18
+        duration: 46
+        number: 18
+        title: "Starship Mine"
+        summary: On an evacuated USS Enterprise-D, Picard plays a deadly game of cat-and-mouse with terrorists who want to steal explosive toxic waste from the warp core as a lethal beam sweeps the ship.
+        trek_id: 21
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Starship_Mine_(episode)
+        randomtrek:
+          date: 2014-10-16
+          description: >
+            Jordan Cooper, host of the Tech Douchebags podcast, joins Scott to have some small talk about “Starship Mine” (TNG S6EP18).
+
+            We discuss Capt. Picard’s fake horse-riding affinity, Tuvok’s shady past, why Geordi is the only hungry officer, and how to get out of attending a funeral when you’re a Starfleet Captain.
+
+            If you enjoyed this episode you might enjoy the episode of Tech Douchebags I was on: The Book Hoarder.
+          guest: Jordan Cooper
+      - code: S06E19
+        duration: 45
+        number: 19
+        title: "Lessons"
+        summary: Picard falls in love with one of his subordinates, but he can't deal with having to order her into dangerous situations.
+        trek_id: 56
+        imdb_id: 
+        overcast_id:
+        alpha: http://memory-alpha.wikia.com/wiki/Lessons_(episode)
+        randomtrek:
+          date: 2015-06-18
+          description: >
+            Kara Scott, poker player and reporter, joins Scott to discuss “Lessons” (TNG S6E19). Awkward kissing, poor Picard wardrobe choices, and a roll out keyboard - This episode has it all. Kara and Scott discuss all manner of things including what it is like to date a Capt. Kirk, mature relationships, and how Capt. Picard makes us a little gooey inside.
+          guest: Kara Scott
+      - code: S06E22
+        duration: 43
+        number: 22
+        title: "Suspicions"
+        summary: Dr. Crusher violates Starfleet regulations and medical ethics when she investigates the death of a Ferengi scientist.
+        trek_id: 95
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Suspicions_(episode)
+        randomtrek:
+          date: 2016-04-21
+          description: >
+            Adam Rakunas, novelist (buy his first book and pre-order his second!) joins Scott to discuss TNG’s Suspicions (S6E22). Everyone thinks Dr. Crusher is crazy… again. There’s a nice Ferengi scientist, lots of casual racism directed toward said scientist, and an alien with a soft, touchable face.
+          guest: Adam Rakunas
+      - code: S06E25
+        duration: 44
+        number: 25
+        title: "Timescape"
+        summary: Aboard a runabout, Picard, Data, La Forge, and Troi encounter time distortions; they also discover the Enterprise, frozen in time, seconds away from destruction.
+        trek_id: 13
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Timescape_(episode)
+        randomtrek:
+          date: 2014-08-21
+          description: >
+            Swoozy Clancey is a nerdy nurse who has embarked on a journey of watching all of Star Trek: The Next Generation in order. Why not invite her onto Random Trek to talk about a random episode? Luckily for her, the fates were kind and picked a TNG episode: Timescape.
+
+            Romulan and temporal anomalies, plus a dash of conference going make this an episode not to miss!
+          guest: Swoozy Clancey
+
+    - season: 7
+      episodes:
+      - code: S07E10
+        duration: 44
+        number: 10
+        title: "Inheritance"
+        summary: Data meets Juliana Tainer, former wife of Dr. Noonian Soong and Data's "mother," but she holds a shocking secret that even she doesn't know she carries.
+        trek_id: 33
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Inheritance_(episode)
+        randomtrek:
+          date: 2015-01-08
+          description: >
+            Shannon Sudderth, a host of the Audio Guide to Babylon 5 and frequent Two Minute Time Lord guest, joins Scott to talk about Inheritance (TNG S7E10). Topics include phasering to the candy center of a planet, the future of women in technology, and the realization that even androids can be embarrassed by their mom.
+          guest: Shannon Sudderth
+      - code: S07E11
+        duration: 43
+        number: 11
+        title: "Parallels"
+        summary: After Worf returns from a bat'leth tournament, he is the only person who notices subtle changes on the Enterprise.
+        trek_id: 114
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Parallels_(episode)
+        randomtrek:
+          date: 2016-09-15
+          description: >
+            John Roderick, singer of The Long Winters, man on the line, and Road Worker, joins Scott to talk about TNG’s Parallels (S7E11). Topics include the optimal cake slice size, spoilers, Riker/Troi and Worf/Troi, and the overall misuse of Troi.
+          guest: John Roderick
+      - code: S07E23
+        duration: 44
+        number: 23
+        title: "Emergence"
+        summary: "A series of puzzling events on and off the holodeck lead the crew of the Enterprise to a surprising conclusion: The ship is creating its own offspring. The crew has to assist with this arduous process to ensure the survival of the emerging lifeform – and their own."
+        trek_id: 132
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Emergence_(episode)
+        randomtrek:
+          date: 2017-01-19
+          description: >
+            Sue Kaye, co-host of Women at Warp and Anomaly Supplemental, joins Scott to talk about TNG’s Emergence (S7E23). One of the final episodes of TNG and it is a holodeck episode! Really? Really! Topics include trainers, Picard’s personal life, and Dr. Crusher.
+          guest: Sue Kaye
+      - code: S07E25
+        duration: 92
+        number: 25
+        title: "All good things..."
+        summary: Picard learns from Q that he is to be the cause of the annihilation of Humanity and begins an incredible journey through time from the present, to the past when he first took command of the Enterprise, to twenty-five years into the future.
+        trek_id: 36
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/All_Good_Things..._(episode)
+        randomtrek:
+          date: 2015-01-29
+          description: >
+            Matt Gemmell, writer, joins Scott to talk about “All Good Things…” (TNG SE7E25). Random Trek’s first double length episode marks the final episode of “Star Trek: The Next Generation” ever, and possibility its best.
+
+            Three different timelines, multiple shots of Picard in his jammies, and more cats than you can shake a positronic brain at can all be found in TNG’s finale. As well as some very touching character moments and a fine send off to the Enterprise crew.
+
+            The twitter account Matt mentions is tng_s8 (for those of use who can’t accept that the 7th season was the final season).
+          guest: Matt Gemmell
+
+
+- code:  DS9
+  name: "Star Trek: Deep Space Nine"
+  seasons:
+  - season: 1
+    episodes:
+
+  - season: 2
+    episodes:
+
+  - season: 3
+    episodes:
+
+  - season: 4
+    episodes:
+
+  - season: 5
+    episodes:
+    - code: S05E03
+      title: "Looking for par'Mach in All the Wrong Places "
+      number: 3
+      duration: 44
+      trek_id: 8
+      imdb_id:
+      overcast_id:
+      alpha: http://memory-alpha.wikia.com/wiki/Looking_for_par'Mach_in_All_the_Wrong_Places_(episode)
+      randomtrek:
+        date: 2014-07-17
+        description: >
+          Moisés Chiullan, Founder/Host of ESN.fm, joins Scott to talk about the very first Deep Space Nine episode on Random Trek: Looking for par’Mach in All the Wrong Places.
+
+          Quark loves a Klingon. Worf loves the same Klingon. Oh, and Kira is carrying Miles O’Brien’s baby. Add a few massages and inappropriate remarks from Dr. Bashir and you’ve got yourself an episode of Deep Space Nine.
+        guest: Moisés Chiullan
+
+  - season: 6
+    episodes:
+
+  - season: 7
+    episodes:
+    - code: S07E09
+      title: "Covenant"
+      number: 9
+      duration: 44
+      trek_id: 121
+      imdb_id: tt0708520
+      overcast_id: +Bum3lNvTo
+      alpha: http://memory-alpha.wikia.com/wiki/Covenant_(episode)
+      randomtrek:
+        date: 2016-11-03
+        description: >
+          David J. Loehr, man of stage and podcast joins Scott to talk about DS9’s Covenant_ (S7E9). Topics include the most iconic Star Trek villain vs. the best, whether Bajorans are space Jews or space Catholics, and the crazy number of episodes the last two seasons of DS9 include in multi-part stories.
+        guest: David J. Loehr
+
+- code: VOY
+  name: "Star Trek: Voyager"
+  seasons:
+
+  - season: 1
+    episodes:
+
+  - season: 2
+    episodes:
+
+  - season: 3
+    episodes:
+
+  - season: 4
+    episodes:
+    - code: S04E13
+      title: "Waking Moments"
+      number: 13
+      duration: 45
+      trek_id: 4
+      imdb_id: 
+      overcast_id:
+      alpha: http://memory-alpha.wikia.com/wiki/Waking_Moments_(episode)
+      randomtrek:
+        date: 2014-06-19
+        description: >
+          Dave Caolo, of TUAW, joins Scott McNulty to talk about Random Trek’s second Voyager episode: Waking Moments.
+
+          Grab your skis and don’t fall sleep or the aliens will get you!
+        guest: Dave Caolo
+
+  - season: 5
+    episodes:
+    - code: S05E23
+      title: "11:59"
+      summary: Kathryn Janeway discovers the truth about one of her famed ancestors, Shannon O'Donnel, realizing that who Shannon was differs vastly from what Janeway had believed all her life. 
+      number: 23
+      duration: 45
+      trek_id: 10
+      imdb_id: 
+      overcast_id:
+      alpha: http://memory-alpha.wikia.com/wiki/11:59_(episode)
+      randomtrek:
+        date: 2014-07-31
+        description: >
+          Ged Maheux, of the Icon Factory and Gedblog, joins Scott to discuss Voyager’s “11:59”. Why does everyone in the Year 2000 drive cars from the 1970’s? Will they or won’t they? Do we care?
+
+          Email everyone in a 100 mile radius because this episode of Voyager is perplexing.
+        guest: Ged Maheux
+
+  - season: 6
+    episodes:
+    - code: S06E24
+      title: "Life Line"
+      number: 24
+      duration: 41
+      trek_id: 3
+      imdb_id: 
+      overcast_id:
+      alpha: http://memory-alpha.wikia.com/wiki/Life_Line_(episode)
+      randomtrek:
+        date: 2014-06-12
+        description: >
+          Serenity Caldwell, of the Incomparable and roller derby note, brings with her the first episode of Voyager to grace Random Trek: Life Line (S6E24).
+
+          Beam yourself across to galaxy and be ready to ponder the meaning of holographic animals, chocolate ice cream, and the scarcity of trained counselors in the 24th century.
+        guest: Serenity Caldwell
+
+  - season: 7
+    episodes:
+
+- code: ENT
+  name: "Star Trek: Enterprise"
+  seasons:
+
+  - season: 1
+    episodes:
+
+  - season: 2
+    episodes:
+
+  - season: 3
+    episodes:
+    - code: S03E16
+      title: "Doctor's Orders"
+      number: 13
+      duration: 41
+      trek_id: 5
+      imdb_id: 
+      overcast_id:
+      alpha: http://memory-alpha.wikia.com/wiki/Doctor's_Orders_(episode)
+      randomtrek:
+        date: 2014-06-26
+        description: >
+          Greg Knauss, he of the Incomparable, Romantimatic, and EOD, has the honor of being on the first Enterprise Random Trek episode: Doctor’s Orders.
+
+          An awful theme song, a cute dog, a naked Denobulan, and a frustrated Vulcan? Sounds like a typical Enterprise episode.
+        guest: Greg Knauss
+
+  - season: 4
+    episodes:
+
