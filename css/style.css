@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'final_frontier_old_styleRg';
+    src: url('finalold.woff2') format('woff2'),
+         url('finalold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'final_frontier_old_styleRg';
+    font-size: 72pt;
+}
