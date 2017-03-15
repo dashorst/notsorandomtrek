@@ -1,8 +1,8 @@
 # The Not So Random Trek Web Site
 
-A companion website that derandomizes the Random Trek podcast episodes.
+A companion website that derandomizes the [Random Trek podcast](https://www.theincomparable.com/randomtrek) episodes.
 
-This website is static and built using Jekyll.
+This website is static and built using [Jekyll](https://jekyllrb.com).
 
 The episode data lives in the folder `_data/series.yml`.
 
