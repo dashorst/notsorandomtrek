@@ -2,63 +2,8 @@
 layout: default
 ---
 <div class="container">
-<h1>NOT SO RANDOM TREK</h1>
-<blockquote>
-  <p>
-  The podcast "<a
-  href="https://www.theincomparable.com/randomtrek/">Random Trek</a>"
-  is a great way to revisit beloved or maligned episodes of the various
-  Star Trek TV shows. However when you are re watching a whole TV show
-  in order, it is difficult to find the specific episodes on the Random
-  Trek web site, or in your podcast player. This website displays the
-  Random Trek episodes in series order so you can find the right
-  podcast after or before you have watched it.
-  </p>
-  <p>
-  You are welcome to help out with this effort <a href="https://github.com/dashorst/notsorandomtrek">on github</a>.
-  </p>
-</blockquote>
 
-<ul class="nav nav-justified nav-tabs" role="tablist">
-{% for series in site.data.series %}
-<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#tab-{{ series.code }}">{{ series.code }}</a></li>
-{% endfor %}
-</ul>
-{% for series in site.data.series %}
-<div class="tab-content">
-  <br>
-  <div id="tab-{{ series.code }}" class="tab-pane" role="tabpanel">
-    <div class="row">
-      <div class="col-2">
-        <ul class="nav flex-column nav-pills" role="tablist">
-          {% for season in series.seasons %}
-            <li class="nav-item"><a class="nav-link" data-toggle="tab" href="#{{ series.code }}-S{{ season.season }}">Season {{ season.season }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="col">
-        <div class="tab-content">
-          {% for season in series.seasons %}
-          <div id="{{ series.code }}-S{{ season.season }}" class="tab-pane" role="tabpanel">
-            {% for episode in season.episodes %}
-            <p>
-              <legend>{{episode.number}} {{episode.title}}</legend>
-              <span class="badge badge-info">{{ episode.code }}</span>
-              <p>{{ episode.summary }}</p>
-              <h5>Random Trek: #{{ episode.randomtrek.trek_id }}</h5>
-              <small>Published: {{ episode.randomtrek.date }} | Duration: {{ episode.randomtrek.duration }}mins</small>
-              <p>{{ episode.randomtrek.description }}</p>
+{% include header.html %}
+{% include showtabs.html %}
 
-              <a class="btn btn-primary btn-sm" href="https://www.theincomparable.com/randomtrek/{{episode.randomtrek.trek_id}}">Random Trek: {{ episode.randomtrek.trek_id }}</a>
-
-              {% if episode.alpha %}<a class="btn btn-primary btn-sm" href="{{ episode.alpha }}">Memory Alpha</a>{% endif %}
-            </p>
-            {% endfor %}
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
-{% endfor %}

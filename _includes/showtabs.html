@@ -1,0 +1,5 @@
+<ul class="nav nav-justified nav-tabs" role="tablist">
+{% for series in site.data.series %}
+<li class="nav-item"><a class="nav-link{% if page.show == series.code %} active{% endif %}" href="{{ series.code | downcase }}.html">{{ series.code }}</a></li>
+{% endfor %}
+</ul>
