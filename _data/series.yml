@@ -452,12 +452,12 @@
         number: 9
         title: "The Vengeance Factor"
         summary: The Enterprise tries to negotiate an end to raids launched by a group called the "Gatherers," but a murder threatens to prevent peace.
-        trek_id: 120  
         imdb_id: tt0708824
         overcast_id: +Bum2ZG6v0
         alpha: http://memory-alpha.wikia.com/wiki/The_Vengeance_Factor_(episode)
         randomtrek:
           date: 2016-10-28
+          trek_id: 120  
           description: >
             A big mystery! Which is solved very quickly. Riker puts it on pretty heavily (though respectfully). And Scott and Glenn talk a lot (too much?) about how the replicators work.
           guest: Glenn Fleischman
@@ -740,6 +740,22 @@
           description: >
             Steven Schapansky, Dr. Who fan and podcast producer, joins Scott to talk about TNG’s Ship in a Bottle (S6E12). This episode begs the question: why are holodecks allowed on starships? At least Reg is there to help realign some stuff.
           guest: Steven Schapansky
+      - code: S06E15
+        number: 15
+        title: "Tapestry"
+        summary: After being attacked on an away mission, Picard dies and meets Q in the afterlife who offers him the chance to change a crucial moment in his history and prevent the mistakes he made in his youth.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Tapestry_(episode)
+        randomtrek:
+          date: 2014-05-29
+          duration: 36
+          trek_id: 1
+          description: >
+            Jason Snell, The Incomparable host and Star Trek fan, joins Scott to talk about the TNG episode Tapestry (S6E15).
+
+            Topics include Jason’s voyage to Star Trek fandom, to Q or not to Q, space casino games, the message of the episode, and much more.
+          guest: Jason Snell
       - code: S06E18
         number: 18
         title: "Starship Mine"
@@ -910,7 +926,7 @@
         randomtrek:
           date: 2016-12-29
           duration: 44
-          trek_id: 134
+          trek_id: 129
           description: >
             Guy English, fan of the show and man of the world, joins Scott to talk about DS9’s Progress (S1E15). A season one episode of Deep Space Nine that is worth watching! Kira solves problems, a grumpy man makes a kiln, self sealing stembolts are purchased, and the rest of the cast is present.
           guest: Guy English
@@ -1335,7 +1351,7 @@
         randomtrek:
           date: 2015-09-04
           duration: 43
-          trek_id: 167
+          trek_id: 67
           description: >
             Lisa Schmeiser, reporter, podcaster, and newsletter producer (subscribe to So What, Who Cares?), joins Scott to discuss Tears of the Prophets (DS9 S6E26). The discussion includes whether DS9 feels dated, if the Bajorns are a cargo cult, the finer details of Dukat’s charm, and the fate of Jadzia Dax.
           guest: Lisa Schmeiser
@@ -2096,3 +2112,72 @@
   - season: 4
     episodes:
 
+- code: Specials
+  name: "Specials"
+  seasons:
+
+  - season: 0
+    episodes:
+      - code: S00E01
+        number: 1
+        title: Remembering Leonard Nimoy
+        summary: Leonard Nimoy, Spock, died on Feb. 27th. On this special episode of Random Trek Scott is joined by a number of past guests who share their thoughts about Spock and their favorite Spock moment.
+        randomtrek:
+          date: 2015-03-05
+          duration: 48
+          trek_id: 41
+          description: >
+            Leonard Nimoy, Spock, died on Feb. 27th. On this special episode of Random Trek Scott is joined by a number of past guests who share their thoughts about Spock and their favorite Spock moment.
+  
+            Scott's guests are:
+            - Jason Snell - Jason wrote more about Leonard Nimoy.
+            - Glenn Fleishman
+            - Matt Gemmell
+            - Steve Lutz
+            - Nicole Wakelin
+            - Jean MacDonald
+            - Dave Caolo
+            - Ged Maheux - Check out Ged's post: Mr. Spock and I.
+  
+            If you liked this episode you should check out The Incomparable 236: "Lived Long and Prospered."
+          guest:
+      - code: S00E02
+        number: 2
+        title: "Star Trek IV: The Voyage Home"
+        summary: Admiral James T. Kirk is prepared to take the consequences for rescuing Spock and stealing and then losing the starship Enterprise, but a new danger has put Earth itself in jeopardy. Kirk and his crew must travel back in time in an old Klingon Bird-of-Prey to right an ancient wrong, in the hopes of saving Earth – and the Federation – from certain doom.
+        alpha: http://memory-alpha.wikia.com/wiki/Star_Trek_IV:_The_Voyage_Home
+        randomtrek:
+          date: 2016-01-07
+          duration: 116
+          trek_id: 81
+          description: >
+            David J. Loehr, Tony Sindelar, and Jason Snell join Scott to discuss “Star Trek IV: The Voyage Home. That’s right, our first movie and it is a good one! You know the one, with the whales and the time travel and the colorful metaphors. Topics discussed include movies that start with the characters watching the previous movie, the shocking overlap between Vulcan and elven fashions, and why doesn’t Sulu do anything in this movie?
+          guest:
+          - David J. Loehr
+          - Tony Sindelar
+          - Jason Snell
+      - code: S00E03
+        number: 3
+        title: "Joan McNulty"
+        summary: In loving memory of Joan McNulty.
+        randomtrek:
+          date: 2016-03-10
+          duration: 40
+          trek_id: 90
+          description: >
+            My mom, Joan McNulty, died on Sunday, March 6th, 2016. I thought it a fitting tribute to re-post her Random Trek appearance, so I hope you enjoy it (again or for the first time!).
+  
+            You can read a bit more about my mom on my blog.
+          guest:
+          - Joan McNulty
+      - code: S00E04
+        number: 4
+        title: "100 Episode Celebration"
+        summary: Scott is joined by a number of listeners to celebration the 100th episode of Random Trek. This super sized episode features Scott answering questions, people commenting on the show, and a glimpse into Scott’s childhood (plus the answer to why the Animated Series isn’t included in the random lineup).
+        randomtrek:
+          date: 2016-06-09
+          duration: 75
+          trek_id: 100
+          description: >
+            Scott is joined by a number of listeners to celebration the 100th episode of Random Trek. This super sized episode features Scott answering questions, people commenting on the show, and a glimpse into Scott’s childhood (plus the answer to why the Animated Series isn’t included in the random lineup).
+          guest:
