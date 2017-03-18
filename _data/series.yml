@@ -1377,24 +1377,508 @@
 
   - season: 1
     episodes:
+      - code: S01E03
+        number: 3
+        title: "Parallax"
+        summary: Investigating an apparent distress call, Voyager becomes trapped inside the event horizon of a quantum singularity.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Parallax_(episode)
+        randomtrek:
+          date: 2015-11-12
+          duration: 43
+          trek_id: 77
+          description: >
+            Shawn Blanc, writer, Sweet Setuper, and focused individual, joins Scott to discuss “Parallax” (VOY S1E3). Blending a crew, black holes, poorly aging special effects, and the troubling relationship between Neelix and Kes are all discussed.
+          guest: Shawn Blanc
+      - code: S01E04
+        number: 4
+        title: "Time and Again"
+        summary: While investigating a massive explosion that destroyed all life on a planet, Janeway and Paris are swept back a day in time, where they must prevent the explosion.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Time_and_Again_(episode)
+        randomtrek:
+          date: 2015-10-15
+          duration: 40
+          trek_id: 73
+          description: >
+            Dan Koeppel, freelance writer, banana expert, and Star Trek: TNG screenwriter (!), joins Scott to discuss “Time and Again” (VOY S1E4). Topics include the perils of having your episode share a name with a fantastic book, how the Voyager crew is like Hitler, 90’s child actors, guns that looks like guns, and tales of writing a Star Trek episode (specifically Inheritance which was covered in Random Trek episode 33).
+          guest: Dan Koeppel
+      - code: S01E05
+        number: 5
+        title: "Phage"
+        summary: Neelix's lungs are removed by a race that suffers from a deadly phage that is slowly destroying their population prompting them to harvest replacement organs and tissues from other species.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Phage_(episode)
+        randomtrek:
+          date: 2014-09-11
+          duration: 45
+          trek_id: 16
+          description: >
+            David J. Loehr, Incomparable panelist and playwright, joins Scott to discuss Voyager’s Phage (S1E5). Neelix’s lungs are stolen, and yet he still talks too much in this episode. Good old Harry Kim scans a wall, and the crew forgets the most important rule: never split the party.
+          guest: David J. Loehr
+      - code: S01E10
+        number: 10
+        title: "Prime Factors"
+        summary: The crew of Voyager discovers a planet that has the technology to send them more than halfway along their journey home. However, the planet's inhabitants are more than reluctant to share this technology with Voyager's crew, as doing so would violate one of the society's own prime directives.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Prime_Factors_(episode)
+        randomtrek:
+          date: 2015-10-01
+          duration: 44
+          trek_id: 71
+          description: >
+            Alyssa Favreau, writer, designer, proofreader, fact checker, and copy editor, joins Scott to discuss Prime Factors (VOY S1E10). Though, to be honest, they don’t spend that much time talking about the episode. Topics include space bros, ranking Vulcans, and the many outfits of Star Trek. Plus Harry Kim and erotic breezes.
+          guest: Alyssa Favreau
+      - code: S01E14
+        number: 14
+        title: "Faces"
+        summary: The Vidiians capture B'Elanna Torres and split her into two people, one fully Klingon, and one fully human.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Faces_(episode)
+        randomtrek:
+          date: 2017-01-26
+          duration: 45
+          trek_id: 133
+          description: >
+            Duncan Barrett, author and actor, joins Scott to talk about VOY’s Faces (S1E14). An early episode of Voyager means the bad guys are the Vidiians. Body horror, coming to grips with what makes you you, and that poor red shirt are all discussed
+          guest: Duncan Barrett
 
   - season: 2
     episodes:
+      - code: S02E02
+        number: 2
+        title: "Initiations"
+        summary: Chakotay becomes caught up in a young Kazon's rite of passage.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Initiations_(episode)
+        randomtrek:
+          date: 2014-12-18
+          duration: 46
+          trek_id: 30
+          description: >
+            Lisa Maria Martin, content strategist and information architect, joins Scott to discuss Initiations (VOY S2E2). This episode is one of those rare gems: a Chakotay centric story. Topics discussed include the deal with Neelix and what it is, Chakotay’s ambiguous tribal associates and fake rituals, and why the Kazon can build starships but can’t find water.
+          guest: Lisa Maria Martin
+      - code: S02E04
+        number: 4
+        title: "Elogium"
+        summary: Voyager encounters a swarm of spaceborne aliens, while Kes and Neelix must decide whether to have a child.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Elogium_(episode)
+        randomtrek:
+          date: 2016-01-21
+          duration: 45
+          trek_id: 83
+          description: >
+            Rachel Donner, podcaster and hockey enthusiast, joins Scott to discuss Voyager’s Elogium (S2E4). Procreation. That’s the theme of this episode and it revolves around Neelix and Kes. Yuck. That’s right, some space aliens make Kes enter her species’ mating phase and it is now or never if she wants to have a baby. Neelix is awful.
+          guest: Rachel Donner
+      - code: S02E06
+        number: 6
+        title: "Twisted"
+        summary: Voyager encounters an inversion field which twists and distorts the ship's hull.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Twisted_(episode)
+        randomtrek:
+          date: 2016-05-13
+          duration: 46
+          trek_id: 97
+          description: >
+            Michael Fisher, mobile tech enthusiast, joins Scott to talk about Voyager’s “Twisted” (S2E6). Things discussed include virtual reality, the Amazon Echo, the Star Trek movies, and many things other than Twisted (which isn’t good).
+          guest: Michael Fisher
+      - code: S02E11
+        number: 11
+        title: "Maneuvers"
+        summary: After Seska steals vital transporter technology from Voyager, Chakotay sets off on his own to recover it.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Maneuvers_(episode)
+        randomtrek:
+          date: 2017-03-09
+          duration: 42
+          trek_id: 139
+          description: >
+            Lisa Granshaw, freelance writer, joins Scott to discuss Voyager’s “Maneuvers” (S2E11). Topics include favorite captains (sorry, Archer), least favorite characters (I’m looking at you, Harry Kim), and Seska: awesome or not?
+          guest: Lisa Granshaw
+      - code: S02E18
+        number: 18
+        title: "Death Wish"
+        summary: A member of the Q Continuum comes aboard Voyager, seeking asylum so he can commit suicide. Q arrives onboard to stop him, leaving Captain Janeway to mediate a moral dilemma.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Death_Wish_(episode)
+        randomtrek:
+          date: 2015-06-11
+          duration: 44
+          trek_id: 55
+          description: >
+            Merlin Mann, writer, podcaster, Internet nuisance, joins Scott to discuss Death Wish ( VOY S2E18). This episode proves that the only thing better than one Q is double the Q. Scott and Merlin also discuss timescales when you’re immortal, and if this episode is a good choice for watching with your young daughter.
+          guest: Merlin Mann
+      - code: S02E24
+        number: 24
+        title: "Tuvix"
+        summary: After a transporter malfunction, Tuvok and Neelix are merged into a single being. In the search for a way to restore them to their original forms, a moral dilemma is faced as the new being does not want to be terminated.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Tuvix_(episode)
+        randomtrek:
+          date: 2016-03-17
+          duration: 44
+          trek_id: 91
+          description: >
+            Ken Gagne, gamer, youtuber, and polygamer, joins Scott to discuss VOY’s Tuvix (S2E24). Tuvok and Neelix: two great tastes that taste great together? Well.. at least Tuvix isn’t as annoying as Neelix. Topics discussed include the Apple II, inviting your parents onto your podcast (while you can), where you’d like to live in the Star Trek universe, and some Voyager episode.
+          guest: Ken Gagne
 
   - season: 3
     episodes:
+      - code: S03E04
+        number: 4
+        title: "The Swarm"
+        summary: The Doctor suffers from a computer malfunction; Voyager is attacked by a swarm of alien warships.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Swarm_(episode)
+        randomtrek:
+          date: 2016-07-15
+          duration: 48
+          trek_id: 105
+          description: >
+            Marisa McClellan, canner and cookbook author (three times over), joins Scott to discuss Voyager’s “The Swarm” (S3E4). Lots of tiny spaceships, a disapproving Vulcan, and very little Harry Kim.
+          guest: Marisa McClellan
+      - code: S03E11
+        number: 11
+        title: "The Q and the Grey"
+        summary: "Q has a novel idea for ending civil war in the Q Continuum: have a child with Captain Janeway."
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Q_And_The_Grey_(episode)
+        randomtrek:
+          date: 2016-08-25
+          duration: 45
+          trek_id: 111
+          description: >
+            Max Temkin, box maker, game designer, and Star Trek enthusiast, joins Scott to discuss VOY’s The Q and the Grey (S3E11). Topics include Max’s thoughts on why Voyager has some of the best episodes in all of Trek, how this episode is a great argument against that view point, how the 90’s were a very different time, and how much this episode upsets Civil War buffs.
+          guest: Max Temkin
+      - code: S03E23
+        number: 23
+        title: "Distant Origin"
+        summary: An alien scientist finds evidence linking his species' ancestry to Earth, but government officials refuse to accept his evidence because it conflicts with existing doctrine.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Distant_Origin_(episode)
+        randomtrek:
+          date: 2015-10-22
+          duration: 45
+          trek_id: 74
+          description: >
+            Josh de Lioncourt, blogger, novelist, and podcaster (Maccessibility and Masters Cast) joins Scott to discuss Distant Origin (VOY S3E23). This episode introduces the truly awesome alien race the “Voth.” This episode is also the only appearance of the Voth in Voyager frowny face. Also discussed on the episode: Josh’s shocking thoughts on TNG, the odd structure of this episode, and did we mention how cool the Voth are? Because they’re cool.
+          guest: Josh de Lioncourt
 
   - season: 4
     episodes:
+      - code: S04E02
+        number: 2
+        title: "The Gift"
+        summary: Kes's telepathic and latent psychokinetic powers begin to grow rapidly while Voyager's newest crewmember, the former Borg drone Seven of Nine, deals with her new individuality.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Gift_(episode)
+        randomtrek:
+          date: 2015-05-21
+          duration: 45
+          trek_id: 52
+          description: >
+            Georgia Dow, psychotherapist, senior editor at iMore, and host of Isometric, joins Scott to discuss Voyager’s “The Gift” (S4E2). Shed a tear because this is Kes’ last episode (though why didn’t she take Neelix with her?). This also happens to be the first appearance of the deborgified 7 of 9 in her striking uniform (note the corset, people). Topics include: Georgia’s least favorite TNG character, Scott’s reaction to said least favorite character, one sided pancakes, and why the mention of either lucid dreaming or guided mediation is a warning that you might be watching a bad episode of Star Trek.
+          guest: Georgia Dow
+      - code: S04E03
+        number: 3
+        title: "Waking Moments"
+        summary: The crew begins to experience vivid nightmares, all containing the same mysterious alien.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Waking_Moments_(episode)
+        randomtrek:
+          date: 2014-06-19
+          duration: 45
+          trek_id: 4
+          description: >
+            Dave Caolo, of TUAW, joins Scott McNulty to talk about Random Trek’s second Voyager episode: Waking Moments.
+
+            Grab your skis and don’t fall sleep or the aliens will get you!
+          guest: Dave Caolo
+      - code: S04E14
+        number: 14
+        title: "Message in a Bottle"
+        summary: Seven of Nine finds an abandoned subspace relay network that has the ability to send a message, or in this case The Doctor, to a Starfleet ship detected in the Alpha Quadrant.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Message_in_a_Bottle_(episode)
+        randomtrek:
+          date: 2015-11-26
+          duration: 43
+          trek_id: 79
+          description: >
+            Joel Mathis, associate editor at Philly Mag, and all around fun guy joins Scott to discuss Voyagers’s “Message in a Bottle” (S4E14). Andy Dick, holographic genitalia, and cool ships of Star Trek are all discussed.
+          guest: Joel Mathis
+      - code: S04E20
+        number: 20
+        title: "Vis A Vis"
+        summary: A genome thief switches physical forms with Tom Paris.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Vis_à_Vis_(episode)
+        randomtrek:
+          date: 2015-09-24
+          duration: 43
+          trek_id: 70
+          description: >
+            Brian Hamilton, podcaster and writer, joins Scott to discuss Vis a Vis (VOY S4E20). Tom Paris meets a crazy alien who steals ships and people’s DNA! Hilarity ensues. And what’s the deal with everyone in the future being obsessed with pop culture from about our current time period? Hmm? Also discussed the pleasures of working on holographic automobiles.
+          guest: Brian Hamilton
+      - code: S04E21
+        number: 21
+        title: "The Omega Directive"
+        summary: Captain Janeway must carry out a top secret Starfleet directive regarding the most powerful substance known to exist.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Omega_Directive_(episode)
+        randomtrek:
+          date: 2017-03-16
+          duration: 42
+          trek_id: 140
+          description: >
+            Mikayla Micomonaco, co-host of The Web of Queer, joins Scott to discuss Voyager’s “The Omega Directive” (S4E21). Topics include Starfleet’s continuing, and shocking, lack of security, Janeway’s management style, and poor old Harry Kim.
+          guest: Mikayla Micomonaco
+      - code: S04E25
+        number: 25
+        title: "One"
+        summary: After the rest of the crew is placed in suspended animation to protect them from dangerous radiation, Seven, with only The Doctor for company, is placed in control of the ship.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/One_(episode)
+        randomtrek:
+          date: 2016-02-04
+          duration: 44
+          trek_id: 85
+          description: >
+            Jim Metzendorf, author of “The Professional’s Guide to Audio Podcast Production” and editor of Random Trek, joins Scott to discuss VOY’s One (S4E25). How weird it is to talk to Scott, watching Star Trek: TNG a week early thanks to a sweet satellite dish, and the logistics of stasis tubes, and Riker’s beard are all discussed on this week’s episode.
+          guest: Jim Metzendorf
+      - code: S04E26
+        number: 26
+        title: "Hope and Fear"
+        summary: Finally decoding the message from Starfleet they received months earlier, Voyager is directed to a nearby sector where an unmanned Federation starship waits for them. However, everything is not what it seems when alien technology is found aboard the new ship.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Hope_and_Fear_(episode)
+        randomtrek:
+          date: 2014-08-28
+          duration: 42
+          trek_id: 14
+          description: >
+            Brianna Wu, Head of Development at Giant Spacekat and one of the hosts of the Isometric Podcast, joins Scott to talk about Voyager’s Hope and Fear (S4E26). Bri explains why Voyager is the best Trek there is, we discuss Harry Kim and his love of bulkheads, and suggest some changes to Voyager’s lax security protocols.
+          guest: Brianna Wu
 
   - season: 5
     episodes:
+      - code: S05E14
+        number: 14
+        title: "Bliss"
+        summary: Voyager finds a wormhole that leads directly back to Earth, but Seven of Nine suspects that it may not be what it appears.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Bliss_(episode)
+        randomtrek:
+          date: 2016-10-20
+          duration: 47
+          trek_id: 119
+          description: >
+            Jean MacDonald, founder of App Camp for Girls, joins Scott to talk about Voyager’s Bliss (S5E14). Topics include the perils of watching a show in random order, how Gene Roddenberry might have been a jerk, and how this episode is a kind of throwback to TOS.
+          guest: Jean MacDonald
+      - code: S05E23
+        number: 23
+        title: "11:59"
+        summary: Kathryn Janeway discovers the truth about one of her famed ancestors, Shannon O'Donnel, realizing that who Shannon was differs vastly from what Janeway had believed all her life.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/11:59_(episode)
+        randomtrek:
+          date: 2014-07-31
+          duration: 45
+          trek_id: 10
+          description: >
+            Ged Maheux, of the Icon Factory and Gedblog, joins Scott to discuss Voyager’s “11:59”. Why does everyone in the Year 2000 drive cars from the 1970’s? Will they or won’t they? Do we care?
+
+            Email everyone in a 100 mile radius because this episode of Voyager is perplexing.
+          guest: Ged Maheux
 
   - season: 6
     episodes:
+      - code: S06E03
+        number: 3
+        title: "Barge of the Dead"
+        summary: B'Elanna Torres dies in a shuttle accident, and finds herself headed for Gre'thor, the afterlife for dishonored Klingons.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Barge_of_the_Dead_(episode)
+        randomtrek:
+          date: 2016-12-22
+          duration: 43
+          trek_id: 128
+          description: >
+            Aleen Simms, incomparablist, host of Less Than of Equal, and more, joins Scott to talk about VOY’s Barge of the Dead (S6E3). The boat to Klingon hell is just what you think it might be: dark, full of fire, and contains grumpy Klingons. We talk about spirituality, if this is all in B’ELanna’s head plus Tuvok.
+          guest: Aleen Simms
+      - code: S06E16
+        number: 16
+        title: "Collective"
+        summary: Voyager finds a Borg cube controlled by assimilated children who have been separated from the Collective mind.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Collective_(episode)
+        randomtrek:
+          date: 2014-08-14
+          duration: 43
+          trek_id: 12
+          description: >
+            Glenn Fleishman, editor and publisher of The Magazine, host of The New Disruptors (which isn’t a podcast reviewing new Klingon and Romulan weaponry), and tweeter of 14 million tweets, joins Scott to talk about Voyager’s Collective (Spoiler: it features the Borg).
+
+            This Voyager episode has it all: card playing, Borg babies, Harry Kim being totally lame, and 7 of 9 getting things done.
+          guest: Glenn Fleishman
+      - code: S06E22
+        number: 22
+        title: "Muse"
+        summary: Torres is stranded on a pre-industrial planet where she becomes the inspiration for a local poet.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Muse_(episode)
+        randomtrek:
+          date: 2015-11-05
+          duration: 43
+          trek_id: 76
+          description: >
+            Becky Sweger, federal data enthusiast and bendystraw lover blogger joins Scott to talk about “Muse” (VOY S6E22). Topics include Star Trek captain’s hair, the distinct lack of space in this episode, and how Scott actually likes Harry Kim in episode. Plus there are some cool looking masks.
+          guest: Becky Sweger
+      - code: S06E24
+        number: 24
+        title: "Life Line"
+        summary: The Doctor is sent to the Alpha Quadrant to cure the dying creator of his program, Lewis Zimmerman, but the holographic engineer wants no part of him.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Life_Line_(episode)
+        randomtrek:
+          date: 2014-06-12
+          duration: 41
+          trek_id: 3
+          description: >
+            Serenity Caldwell, of the Incomparable and roller derby note, brings with her the first episode of Voyager to grace Random Trek: Life Line (S6E24).
+
+            Beam yourself across to galaxy and be ready to ponder the meaning of holographic animals, chocolate ice cream, and the scarcity of trained counselors in the 24th century.
+          guest: Serenity Caldwell
+      - code: S06E25
+        number: 25
+        title: "The Haunting of Deck Twelve"
+        summary: While the USS Voyager is without power for several hours, Neelix tells the children a ghost story of the events that lead up to it... or is it more than just a story?
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/The_Haunting_of_Deck_Twelve_(episode)
+        randomtrek:
+          date: 2015-08-27
+          duration: 38
+          trek_id: 66
+          description: >
+            Joan McNulty, retiree, reader, and Scott’s mom, joins Scott to discuss The Haunting of Deck Twelve (VOY S6E25). The Original Series, how Scott got into Star Trek, whether Neelix is annoying, and the merits of Capt. Janeway are discussed. The merits of being able to fly and which Star Trek tech you wish was real (transporters vs. replicators) are also mentioned.
+          guest: Joan McNulty
 
   - season: 7
     episodes:
+      - code: S07E02
+        number: 2
+        title: "Imperfection"
+        summary: Seven's life is put in danger when a crucial Borg implant malfunctions.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Imperfection_(episode)
+        randomtrek:
+          date: 2017-03-02
+          duration: 44
+          trek_id: 138
+          description: >
+            L.M. Myles writer, podcaster, and Dr. Who fan, joins Scott to discuss Voyager’s “Imperfection” (S7E2). Topics include Romulans (who don’t appear in the episode), Klingons (who also do not appear in the episode), and strong woman characters (which do appear in this episode).
+          guest: Liz Myles
+      - code: S07E06
+        number: 6
+        title: "Inside Man"
+        summary: The Pathfinder Project makes contact with Voyager again... and this time they transmit a hologram of Reginald Barclay to interact with the crew. However a certain group of aliens have seen a way to make a tidy profit.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Inside_Man_%28episode%29
+        randomtrek:
+          date: 2015-06-04
+          duration: 43
+          trek_id: 54
+          description: >
+            Clint Ecker, programmer and snazzy dresser, joins Scott to talk about “Inside Man” (VOY S7E06). This episode features Reg Barclay, a Random Trek favorite, and Troi. Who doesn’t like Troi? It also has a bonus Reg, creepy stalker behavior, and a great deal of space swimwear.
+          guest: Clint Ecker
+      - code: S07E10
+        number: 10
+        title: "Shattered"
+        summary: The macroviruses, Dr. Chaotica, and Seska hinder Chakotay and Janeway's attempt to restore Voyager to its normal state after a temporal distortion shifts sections of the ship into different timeframes.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Shattered_(episode)
+        randomtrek:
+          date: 2015-09-17
+          duration: 43
+          trek_id: 69
+          description: >
+            Philip Mozolak, podcaster and TeeVee enthusiast, joins Scott to discuss Shattered (VOY S7E10). Chakotay visits Voyager’s past and future to find a way to unshatter the ship he loves. Or something. A stop in the holodeck, with ensuing hilarity, and the amazing skills of the Doctor round out this episode.
+          guest: Philip Mozolak
+      - code: S07E16
+        number: 16
+        title: "Work Force"
+        summary: Most of the Voyager crew is kidnapped and forced to labor in a massive industrial work force.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Workforce_%28episode%29
+        randomtrek:
+          date: 2015-04-23
+          duration: 83
+          trek_id: 48
+          description: >
+            Joe Rosensteel (that’s Joe Steel to you, kid), podcaster, infrequent Incomparable panelist, and Star Trek fan, joins Scott to discuss Random Trek’s first two part episode: Workforce Part I and Workforce II (VOY S7E16 and 17). Topics include if this should have been a two parter, factory automation, planet-wide shields, and Ralph Malph. These Are The Voyages (Volume 1) by Marc Cushman is also discussed briefly (and you should read it!).
+          guest: Joe Rosensteel
+      - code: S07E17
+        number: 17
+        title: "Work Force, Part II"
+        summary: Quarren forces close in as Chakotay and the others try to rescue the crew.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Workforce,_Part_II_(episode)
+        randomtrek:
+          date: 2015-04-23
+          duration: 83
+          trek_id: 48
+          description: >
+            Joe Rosensteel (that’s Joe Steel to you, kid), podcaster, infrequent Incomparable panelist, and Star Trek fan, joins Scott to discuss Random Trek’s first two part episode: Workforce Part I and Workforce II (VOY S7E16 and 17). Topics include if this should have been a two parter, factory automation, planet-wide shields, and Ralph Malph. These Are The Voyages (Volume 1) by Marc Cushman is also discussed briefly (and you should read it!).
+          guest: Joe Rosensteel
+      - code: S07E20
+        number: 20
+        title: "Author, Author"
+        summary: The Doctor completes work on a holonovel that depicts the crew of Voyager in rather unflattering roles as they abuse and scorn the Emergency Medical Hologram. When the holonovel is published without his permission, the issue of The Doctor's legal rights is brought into question. Seven reconnects with her aunt.
+        imdb_id: 
+        overcast_id: 
+        alpha: http://memory-alpha.wikia.com/wiki/Author,_Author_(episode)
+        randomtrek:
+          date: 2016-03-03
+          duration: 42
+          trek_id: 89
+          description: >
+            Anna Tarkov, podcaster and writer, joins Scott to discuss VOY’s Author, Author (S7E20). Topics include the fact that a holonovel is really a video game, how Tom Paris is kind of a jerk, and the parallels that this episode draws with slavery make some of us a little uncomfortable.
+          guest: Anna Tarkov
 
 - code: ENT
   name: "Star Trek: Enterprise"
