@@ -51,7 +51,7 @@ layout: default
 
               <a class="btn btn-primary btn-sm" href="https://www.theincomparable.com/randomtrek/{{episode.randomtrek.trek_id}}">Random Trek: {{ episode.randomtrek.trek_id }}</a>
 
-              <a class="btn btn-primary btn-sm" href="{{ episode.alpha }}">Memory Alpha</a>
+              {% if episode.alpha %}<a class="btn btn-primary btn-sm" href="{{ episode.alpha }}">Memory Alpha</a>{% endif %}
             </p>
             {% endfor %}
           </div>
