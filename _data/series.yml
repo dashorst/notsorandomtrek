@@ -930,6 +930,20 @@
           description: >
             Guy English, fan of the show and man of the world, joins Scott to talk about DS9’s Progress (S1E15). A season one episode of Deep Space Nine that is worth watching! Kira solves problems, a grumpy man makes a kiln, self sealing stembolts are purchased, and the rest of the cast is present.
           guest: Guy English
+      - code: S01E16
+        number: 16
+        title: "If Wishes Were Horses"
+        summary: Station residents suddenly find their imaginations are manifested in physical form; a spatial rift threatens to destroy the Bajoran system.
+        imdb_id: 
+        overcast_id: +Bum1Fw0cA
+        alpha: http://memory-alpha.wikia.com/wiki/If_Wishes_Were_Horses_(episode)
+        randomtrek:
+          date: 2017-03-23
+          duration: 46
+          trek_id: 141
+          description: >
+            Andi from Women at Warp joins Scott to discuss DS9’s “If Wishes Were Horses” (S1E16). Topics include sex kitten Dax, why bad Trek is still fun trek, and the future of baseball.
+          guest: Andi
       - code: S01E17
         number: 17
         title: "The Forsaken"
