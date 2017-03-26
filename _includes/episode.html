@@ -1,4 +1,5 @@
 {% assign ep = include.episode %}
+{% capture rt_url %}https://www.theincomparable.com/randomtrek/{{ ep.randomtrek.randomtrek_id }}{% endcapture %}
       <div class="card" id="{{ include.id }}">
         <div class="card-block">
           <div class="row">
@@ -6,31 +7,24 @@
               <img class="w-100 img-thumbnail" src="images/rt{{ ep.randomtrek.randomtrek_id }}.jpg">
               <p class="small">{{ ep.code }} • “{{ ep.title }}”
                 <br>
-                <a href="https://www.theincomparable.com/randomtrek/{{ ep.randomtrek.randomtrek_id }}">Random Trek #{{ ep.randomtrek.randomtrek_id }}</a> •
+                <a href="{{ rt_url }}">Random Trek #{{ ep.randomtrek.randomtrek_id }}</a> •
                 <a href="{{ ep.memoryalpha }}">Memory Alpha</a>
 {% if ep.imdb %}                • <a href="{{ ep.imdb }}">IMDB</a>{% endif %}
                 <br>
                  {{ ep.randomtrek.date | date: '%B %e, %Y' }}  • {{ ep.randomtrek.duration }} minutes{% if ep.randomtrek.size %} • {{ ep.randomtrek.size }}MB{% endif %}
               </p>
-              <p class="small">
-              </p>
               <p>
-                <audio class="w-100" controls preload="none">
-                  <source src="https://www.theincomparable.com/podcast/randomtrek{{ ep.randomtrek_id }}.mp3" type="audio/mpeg">
-                  Your browser does not support the audio element.
-                </audio>
-              </p>
-              <p>
-                <a href="{{ ep.itunes }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-itunes-2x.png" style="width:6rem;padding:0;margin:0"></a>
+                <a href="{{ rt_url }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-randomtrek-2x.png" style="width:8rem;padding:0;margin:0"></a>
+                <a href="{{ ep.itunes }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-itunes-2x.png" style="width:8rem;padding:0;margin:0"></a>
 {% if ep.overcast_episode %}
-                <a href="{{ ep.overcast_episode }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-overcast-2x.png" style="width:6rem;padding:0;margin:0"></a>
+                <a href="{{ ep.overcast_episode }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-overcast-2x.png" style="width:8rem;padding:0;margin:0"></a>
 {% else %}
-                <a href="{{ ep.overcast }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-overcast-2x.png" style="width:6rem;padding:0;margin:0"></a>
+                <a href="{{ ep.overcast }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-overcast-2x.png" style="width:8rem;padding:0;margin:0"></a>
 {% endif %}
 {% if ep.pocketcasts_episode %}
-                <a href="{{ ep.pocketcasts_episode }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-casts-2x.png" style="width:6rem;padding:0;margin:0"></a>
+                <a href="{{ ep.pocketcasts_episode }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-casts-2x.png" style="width:8rem;padding:0;margin:0"></a>
 {% else %}
-                <a href="{{ ep.pocketcasts }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-casts-2x.png" style="width:6rem;padding:0;margin:0"></a>
+                <a href="{{ ep.pocketcasts }}" class="btn btn-sm" style="margin-left:0;padding:0"><img src="css/button-casts-2x.png" style="width:8rem;padding:0;margin:0"></a>
 {% endif %}
               </p>
             </div>
@@ -42,11 +36,12 @@
               {{ ep.randomtrek.description | rstrip | slice: 1, length }}
 
 {% if ep.randomtrek.hosts %}
-            <div class="list-group w-100">
+            <h5>Hosts</h5>
+            <ul class="list-inline">
   {% for host in ep.randomtrek.hosts %}
-              <a class="list-group-item list-group-item-action" href="https://www.theincomparable.com/person/{{ host.code }}">{{ host.name }}</a>
+              <li><a class="alist-group-item alist-group-item-action apx-0" href="https://www.theincomparable.com/person/{{ host.code }}">{{ host.name }}</a></li>
   {% endfor %}
-            </div>
+            </ul>
 {% endif %}
             </div>
           </div>
