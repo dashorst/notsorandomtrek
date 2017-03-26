@@ -1,9 +1,45 @@
 ---
 layout: default
+#show: rnd
+#season: 4
+#start: 130
+#end: 180
 ---
-<div class="container">
 
-{% include header.html %}
-{% include showtabs.html %}
+<div class="container mt-3">
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4">
+      <div class="list-group">
+{% for s in site.data.shows %}
+        <a class="list-group-item" href="{{ s.id }}.html">{{ s.code }}</a>
+{% endfor %}
+      </div>
+      <br>
+      {% include about-notsorandomtrek.html %}
+    </div>
+    <div class="col-8 col-md-9 col-sm-8">
+      <div class="jumbotron">
+        <h1>NOT SO <span class="text-muted">RANDOM TREK</span></h1>
+        <p class="lead">
+          Two people watch a randomly selected episode of Star Trek and
+          then talk about it. A couple of weeks later a podcast appears.
+        </p>
+        <p class="lead">      
+          Another couple of weeks later, the episode is added to the
+          de-randomized list of episodes. This comes in handy when you are
+          binge watching show after show, season after season.
+        </p>
+        <a class="btn btn-primary btn-lg" href="about.html">About Random Trek &raquo;</a>
+      </div>
 
+{% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
+{% assign maxnr = maxnr | plus: 0 %}
+{% for i in (0..4) %}
+  {% assign episode_nr = maxnr | minus: i %}
+  {% assign episode = site.data.ran | where: 'randomtrek_id', episode_nr | first %}
+  {% include episode.html episode=episode id=episode_nr %}
+  <br>
+{% endfor %}
+    </div>
+  </div>
 </div>

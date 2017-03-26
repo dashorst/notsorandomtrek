@@ -1,0 +1,51 @@
+---
+layout: default
+#show: rnd
+#season: 4
+#start: 130
+#end: 180
+---
+
+<div class="container mt-3">
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4">
+      <div class="list-group">
+{% for s in site.data.shows %}
+        <a class="list-group-item" href="{{ s.id }}.html">{{ s.code }}</a>
+{% endfor %}
+      </div>
+      <br>
+      {% include about-notsorandomtrek.html %}
+    </div>
+    <div class="col-8 col-md-9 col-sm-8">
+      <h1>ABOUT RANDOM TREK</h1>
+      <p>
+          <a href="http://www.theincomparable.com/randomtrek/">Random
+          Trek</a> is an audio podcast in the <a
+          href="http://www.theincomparable.com/">Incomparable podcasting
+          network</a>. The idea is simple: Two people watch a randomly
+          selected episode of Star Trek and then talk about it. A couple of
+          weeks later a podcast appears.
+      </p>
+      <h3>The Rules</h3>
+      <p>
+        <ol>
+          <li>No episode of Random Trek will be longer than the episode of Star Trek being discussed.</li>
+          <li>Star Trek: The Animated Series is not included.</li>
+        </ol>
+      </p>
+
+      <h3>The Host</h3>
+        <img class="img-thumbnail float-right ml-3" src="images/scott.jpg">
+        <p>
+            <a href="http://www.blankbaby.com/">Scott McNulty</a>
+            hosts Random Trek. He’s been watching Star Trek forever
+            and is a huge fan. He owns thousands of Star Trek The
+            Customizable Card Game cards, lots of Star Trek odds and
+            ends, and doesn’t look good in a Starfleet unitard.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

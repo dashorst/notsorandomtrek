@@ -1,0 +1,166 @@
+- id: rnd
+  code: Random Trek
+  name: Random Trek
+  seasons:
+  - season: 1
+    label: 2014
+    code: s01
+    episodes: 31
+  - season: 2
+    label: 2015
+    code: s02
+    episodes: 50
+  - season: 3
+    label: 2016
+    code: s03
+    episodes: 50
+  - season: 4
+    label: 2017
+    code: s04
+    episodes: 50
+
+- id: tos
+  code: ST:TOS
+  name: Star&nbsp;Trek:&#32;The&nbsp;Original&nbsp;Series
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 29
+  - season: 2
+    label: 2
+    code: s02
+    episodes: 28
+  - season: 3
+    label: 3
+    code: s03
+    episodes: 28
+
+- id: tng
+  code: ST:TNG
+  name: "Star Trek: The Next Generation"
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 26
+  - season: 2
+    label: 2
+    code: s02
+    episodes: 26
+  - season: 3
+    label: 3
+    code: s03
+    episodes: 26
+  - season: 4
+    label: 4
+    code: s04
+    episodes: 26
+  - season: 5
+    label: 5
+    code: s05
+    episodes: 26
+  - season: 6
+    label: 6
+    code: s06
+    episodes: 26
+  - season: 7
+    label: 7
+    code: s07
+    episodes: 26
+
+- id: ds9
+  code: ST:DS9
+  name: "Star Trek: Deep Space 9"
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 26
+  - season: 2
+    label: 2
+    code: s02
+    episodes: 26
+  - season: 3
+    label: 3
+    code: s03
+    episodes: 26
+  - season: 4
+    label: 4
+    code: s04
+    episodes: 26
+  - season: 5
+    label: 5
+    code: s05
+    episodes: 26
+  - season: 6
+    label: 6
+    code: s06
+    episodes: 26
+  - season: 7
+    label: 7
+    code: s07
+    episodes: 26
+
+- id: voy
+  code: ST:VOY
+  name: "Star Trek: Voyager"
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 26
+  - season: 2
+    label: 2
+    code: s02
+    episodes: 26
+  - season: 3
+    label: 3
+    code: s03
+    episodes: 26
+  - season: 4
+    label: 4
+    code: s04
+    episodes: 26
+  - season: 5
+    label: 5
+    code: s05
+    episodes: 26
+  - season: 6
+    label: 6
+    code: s06
+    episodes: 26
+  - season: 7
+    label: 7
+    code: s07
+    episodes: 26
+
+- id: ent
+  code: ST:ENT
+  name: "Star Trek: Enterprise"
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 26
+  - season: 2
+    label: 2
+    code: s02
+    episodes: 26
+  - season: 3
+    label: 1
+    code: s03
+    episodes: 26
+  - season: 4
+    label: 4
+    code: s04
+    episodes: 26
+
+- id: specials
+  code: Specials
+  name: Special Episodes
+  seasons:
+  - season: 0
+    label: 0
+    code: s00
+    episodes: 4

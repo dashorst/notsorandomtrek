@@ -1,0 +1,85 @@
+---
+layout: default
+---
+{% assign show = page.show %}
+{% for s in site.data.shows %}
+  {% if s.id == show %}
+    {% assign show = s %}
+  {% endif %}
+{% endfor %}
+{% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
+{% assign maxnr = maxnr | plus: 0 %}
+
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4 hidden-sm-down"></div>
+    <div class="col-8 col-md-9 col-sm-8">
+      <h2 class="w-100 text-uppercase">{{ show.name }}</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4">
+      <div class="list-group">
+{% for s in site.data.shows %}
+        <a class="list-group-item{% if s.id == show.id %} active{% endif %}" href="{{ s.id }}.html">{{ s.code }}</a>
+{% endfor %}
+      </div>
+      <br>
+      <div class="list-group">
+{% for season in show.seasons %}
+  {% if show.id == 'specials' %}
+        <a class="list-group-item{% if season.season == page.season %} active{% endif %}" href="{{show.id}}.html">Season {{ season.label }}</a>
+  {% else %}
+        <a class="list-group-item{% if season.season == page.season %} active{% endif %}" href="{{show.id}}-{{season.code}}.html">Season {{ season.label }}</a>
+  {% endif %}
+{% endfor %}
+      </div>
+      <br>
+      <table class="table table-bordered table-sm text-center" style="position:sticky;top:80px">
+{% for season in show.seasons %}
+  {% if season.season == page.season  %}
+    {% assign t = page.start | minus: 1 | modulo:5 %}
+    {% assign additional_tds = t %}
+    {% assign end = page.end %}
+    {% for i in (page.start..end) %}
+      {% assign new_tr = i | modulo:5 %}
+      {% assign lookup = i  %}
+      {% if new_tr == 1 %}
+        <tr>
+      {% endif %}
+      {% if forloop.first %}{% for j in (1..additional_tds) %}{% assign f = page.start | minus: additional_tds | plus: j | minus: 1 %}<td><a class="text-muted" >{% if f < 100 %}&nbsp;{% endif %}{% if f < 10 %}&nbsp;{% endif %}{{ f }}</a></td>{% endfor %}{% endif %}
+      {% if i <= maxnr %}
+          <td class="btn-primary"><a class="text-white" href="#{{ lookup }}">{% if i < 100 %}&nbsp;{% endif %}{% if i < 10 %}&nbsp;{% endif %}{{ lookup }}</a></td>
+      {% else %}
+        <td>{{ i }}</td>
+      {% endif %}
+      {% if new_tr == 0 or forloop.last %}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+      </table>
+      <br>
+      {% include about-notsorandomtrek.html %}
+    </div>
+    <div class="col-8 col-md-9 col-sm-8">
+{% assign episodes = site.data.ran | sort: 'randomtrek_id' %}
+
+{% for season in show.seasons %}
+  {% if season.season == page.season  %}
+    {% for i in (page.start..page.end) %}
+      {% if i > maxnr %}{% break %}{% endif %}
+      {% assign ep = site.data.ran | where: 'randomtrek_id', i | first %}
+      {% include episode.html episode=ep id=i %}
+{% unless forloop.last %}
+      <br>{% endunless %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+    </div>
+  </div>
+  <br>
+</div>

@@ -1,0 +1,69 @@
+---
+layout: default
+---
+{% assign show = page.show %}
+{% for s in site.data.shows %}
+  {% if s.id == show %}
+    {% assign show = s %}
+  {% endif %}
+{% endfor %}
+<div class="container">
+  <br>
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4 hidden-sm-down"></div>
+    <div class="col-8 col-md-9 col-sm-8">
+      <h2 class="w-100 text-uppercase">{{ show.name }}</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-4 col-md-3 col-sm-4">
+      <div class="list-group">
+{% for s in site.data.shows %}
+        <a class="list-group-item{% if s.id == show.id %} active{% endif %}" href="{{ s.id }}.html">{{ s.code }}</a>
+{% endfor %}
+      </div>
+{% unless show.id == 'specials' %}
+      <br>
+      <div class="list-group">
+{% for season in show.seasons %}
+        <a class="list-group-item{% if season.season == page.season %} active{% endif %}" href="{{show.id}}-{{season.code}}.html">Season {{ season.season }}</a>
+{% endfor %}
+      </div>
+{% endunless %}
+      <br>
+      <table class="table table-bordered table-sm text-center" style="position:sticky;top:80px">
+{% for season in show.seasons %}
+  {% if season.season == page.season  %}
+    {% for i in (1..season.episodes) %}
+      {% assign new_tr = i | modulo:5 %}
+      {% capture lookup %}{{ show.id }}-s0{{ season.season }}e{% if i < 10 %}0{% endif %}{{ i }}{% endcapture %}
+      {% if new_tr == 1 %}
+        <tr>
+      {% endif %}
+      {% assign episode_exists = site.data.ran | where: "id", lookup %}
+      {% if episode_exists != empty %}
+          <td class="btn-primary"><a class="text-white" href="#{{ lookup }}">{% if i < 10 %}&nbsp;{% endif %}{{ i }}</a></td>
+      {% else %}
+          <td><a class="text-muted" >{% if i < 10 %}&nbsp;{% endif %}{{ i }}</a></td>
+      {% endif %}
+      {% if new_tr == 0 or forloop.last %}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+      </table>
+      <br>
+      {% include about-notsorandomtrek.html %}
+    </div>
+    <div class="col-8 col-md-9 col-sm-8">
+{% assign episodes = site.data.ran | where: 'season', page.season | sort: 'id' %}
+{% for ep in episodes %}{% unless ep.show == show.id %}{% continue %}{% endunless %}
+  {% include episode.html episode=ep id=ep.id %}{% unless forloop.last %}
+      <br>{% endunless %}
+{% endfor %}
+    </div>
+  </div>
+  <br>
+</div>

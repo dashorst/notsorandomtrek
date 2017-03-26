@@ -8,5 +8,13 @@
 
 h1 {
     font-family: 'final_frontier_old_styleRg';
-    font-size: 72pt;
+    font-size: 6rem;
+}
+h2 {
+    font-family: 'final_frontier_old_styleRg';
+    font-size: 5rem;
+}
+h3 {
+    font-family: 'final_frontier_old_styleRg';
+    font-size: 3rem;
 }
