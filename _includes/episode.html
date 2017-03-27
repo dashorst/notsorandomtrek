@@ -28,10 +28,12 @@
 {% endif %}
               </p>
             </div>
+{% for host in ep.randomtrek.hosts %}{% unless host.code == 'scott-mcnulty %}{% assign nonScottHost = host  %}{% break %}{% endunless %}{% endfor %}
+    
             <div class="col-md-7">
               <h3>{{ ep.title }}</h3>
               <p class="lead">{{ ep.description }}</p>
-              <h5>Random Trek #{{ ep.randomtrek.randomtrek_id }} with Marisa McClellan</h5>
+              <h5>Random Trek #{{ ep.randomtrek.randomtrek_id }}{% if nonScottHost %} with {{ nonScottHost.name }}{% endif %}</h5>
               {% capture length %}{{ ep.randomtrek.description.size | minus: 3 }}{% endcapture %}
               {{ ep.randomtrek.description | rstrip | slice: 1, length }}
 
