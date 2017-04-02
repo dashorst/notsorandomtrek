@@ -21,7 +21,7 @@ layout: default
       {% include about-notsorandomtrek.html %}
     </div>
     <div class="col-8 col-md-9 col-sm-8">
-      <div class="jumbotron">
+      <div class="jumbotron pt-4 pb-3">
         <h1><span class="text-primary">NOT SO</span> RANDOM TREK</h1>
         <p class="lead">
           Two people watch a randomly selected episode of Star Trek and
@@ -32,7 +32,9 @@ layout: default
           de-randomized list of episodes. This comes in handy when you are
           binge watching show after show, season after season.
         </p>
-        <a class="btn btn-primary btn-lg" href="about.html">About Random Trek &raquo;</a>
+        <p>
+          <a href="about.html">About Random Trek</a> • 
+          <a href="https://github.com/dashorst/notsorandomtrek/blob/master/README.md">About this website</a>
       </div>
 
 {% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
