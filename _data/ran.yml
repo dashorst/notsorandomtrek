@@ -5019,3 +5019,29 @@
       name: Scott McNulty
     - code: kelly-guimont
       name: Kelly Guimont
+- id: ent-s03e17
+  show: ent
+  season: 3
+  episode: 17
+  code: S03E17
+  randomtrek_id: 143
+  title: "Hatchery"
+  description: >
+    "Enterprise finds a derelict Xindi-Insectoid ship carrying a cache of unhatched eggs and Archer takes an increasingly obsessive interest in preserving them. Enterprise is orbiting an uninhabited planet en route to Azati Prime. They discover a derelict Xindi-Insectoid ship on the surface. Interested in finding out more about their technology, Captain Archer sends down an away team in a shuttlepod."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Hatchery_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum1g06hQ
+  randomtrek:
+    randomtrek_id: 143
+    date: 2017-04-06
+    duration: 42
+    size: 30
+    description: >
+      "<p><a href="https://twitter.com/aaronreynolds">Aaron Reynolds</a>, the man behind <a href="https://twitter.com/swear_trek">Swear Trek</a> and <a href="https://twitter.com/batlabels">Bat Labels</a>, joins Scott to discuss ENT’s “<a href="http://memory-alpha.wikia.com/wiki/Hatchery_(episode)">Hatchery</a>” (S3E17). Topics include Star Trek movies, the Xindi, and the best Enterprise characters.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: aaron-reynolds
+      name: Aaron Reynolds
