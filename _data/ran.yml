@@ -5045,3 +5045,30 @@
       name: Scott McNulty
     - code: aaron-reynolds
       name: Aaron Reynolds
+- id: ds9-s07e04
+  show: ds9
+  season: 7
+  episode: 4
+  code: S07E04
+  randomtrek_id: 144
+  title: "Take Me Out to the Holosuite"
+  description: >
+    "When Captain Solok of the Federation starship T'Kumbra challenges former classmate Sisko and his crew to a game of baseball, Sisko refuses to lose to the arrogant Vulcan and begins to take the game too seriously."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Take_Me_Out_to_the_Holosuite_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  itunes: https://itunes.apple.com/us/podcast/144-take-me-out-to-the-holosuite-ds9-with-guy-english/id883813961?i=1000384364355&mt=2
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum2JIstc
+  randomtrek:
+    randomtrek_id: 144
+    date: 2017-04-13
+    duration: 46
+    size: 33
+    description: >
+      "<p><a href="https://twitter.com/gte">Guy English</a>, frequent guest on the show, joins Scott to discuss DS9’s “<a href="http://memory-alpha.wikia.com/wiki/Take_Me_Out_to_the_Holosuite_(episode)">Take Me Out to the Holosuite</a>” (S7E4). Topics include baseball (so much baseball!), Vulcan racists, and the United Federation of Planets anthem.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: guy-english
+      name: Guy English
