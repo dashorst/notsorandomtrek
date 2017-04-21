@@ -5072,3 +5072,29 @@
       name: Scott McNulty
     - code: guy-english
       name: Guy English
+- id: voy-s01e07
+  show: voy
+  season: 1
+  episode: 7
+  code: S01E07
+  randomtrek_id: 145
+  title: "Eye of the Needle"
+  description: >
+    "Voyager makes contact with a Romulan ship through a wormhole that leads back to the Alpha Quadrant. When the crew discovers subspace emissions indicative of a wormhole, they are elated by the possibility of a way home."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Eye_of_the_Needle_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum2cE5XQ
+  randomtrek:
+    randomtrek_id: 145
+    date: 2017-04-20
+    duration: 37
+    size: 27
+    description: >
+      "<p><a href="https://twitter.com/ronbronson">Ron Bronson</a>, <a href="http://work.ronbronson.com/">strategic designer</a>, joins Scott to discuss VOY’s “<a href="http://memory-alpha.wikia.com/wiki/Eye_of_the_Needle_(episode)">Eye of the Needle</a>” (S1E7). Topics include Finnish baseball, DS9, and the narrow wormhole problems we encounter in everyday life.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: ron-bronson
+      name: Ron Bronson
