@@ -5098,3 +5098,31 @@
       name: Scott McNulty
     - code: ron-bronson
       name: Ron Bronson
+- id: ds9-s07e06
+  show: ds9
+  season: 7
+  episode: 6
+  code: S07E06
+  randomtrek_id: 146
+  title: "Treachery, Faith and the Great River"
+  description: >
+    "Odo is contacted by Weyoun, who reveals that he wants to defect to the Federation. Meanwhile, O'Brien and Nog sail down the Great Material Continuum. While with Kira, Odo is skeptical when he receives a message from Gul Russol, who used to be one of his most reliable informants. Russol was executed when Cardassia joined the Dominion, or so Odo thought. He sets out for a barren moon."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Treachery,_Faith_and_the_Great_River_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum0DEipg
+  randomtrek:
+    randomtrek_id: 146
+    date: 2017-05-04
+    duration: 38
+    size: 28
+    description: >
+      "<p><a href="https://twitter.com/monty_ashley">Monty Ashley</a>, <a href="https://www.theincomparable.com/person/monty-ashley/">man about The Incomparable network</a> joins Scott to discuss DS9’s “<a href="http://memory-alpha.wikia.com/wiki/Treachery,_Faith_and_the_Great_River_(episode)">Treachery, Faith and the Great River</a>” (S7E6) Topics include Odo’s face and fingers, Nog’s work ethic, and the dreamy Colin Firth.</p>"
+    hosts:
+    - code: monty-ashley
+      name: man about The Incomparable network
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: monty-ashley
+      name: Monty Ashley
