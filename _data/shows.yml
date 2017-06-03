@@ -168,6 +168,17 @@
     code: s04
     episodes: 26
 
+- id: disc
+  code: ST:DIS
+  short: DIS
+  type: series
+  name: "Star Trek: Discovery"
+  seasons:
+  - season: 1
+    label: 1
+    code: s01
+    episodes: 15
+
 - id: specials
   code: Specials
   short: SPC
