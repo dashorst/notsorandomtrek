@@ -6,7 +6,44 @@ layout: default
 #end: 180
 ---
 
-<div class="container">
+<div class="container hidden-md-up">
+  <br>
+  <div class="row">
+    <div class="col-4">
+      <a href="{{ site.baseurl }}/"><img src="images/notsorandomtrek.png" class="mb-3" style="max-height:4rem"></a>
+    </div>
+    <div class="col">
+      <p style="font-size: 0.75rem;line-height:1.1em">
+      Two people watch a randomly selected episode of Star Trek and then record a <a href="https://theincomparable.com/randomtrek">podcast about it</a>. A couple of weeks later the podcast is added to this de-randomized list of episodes.</p>
+    </div>
+  </div>
+  <div class="row mb-3">
+    <div class="col text-center">
+      <div class="btn-group">
+{% assign series = site.data.shows | where: 'type', 'series' %}
+{% for s in series %}
+        <a class="btn btn-secondary btn-sm" href="{{ s.id }}.html" title="{{ s.name }}">{{ s.short }}</a>
+{% endfor %}
+      </div>
+      <div class="btn-group">
+{% assign specials = site.data.shows | where: 'type', 'special' %}
+{% for s in specials %}
+        <a class="btn btn-secondary btn-sm" href="{{ s.id }}.html" title="{{ s.name }}">{{ s.code }}</a>
+{% endfor %}
+      </div>
+    </div>
+  </div>
+{% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
+{% assign maxnr = maxnr | plus: 0 %}
+{% for i in (0..4) %}
+  {% assign episode_nr = maxnr | minus: i %}
+  {% assign episode = site.data.ran | where: 'randomtrek_id', episode_nr | first %}
+  {% include episode.html episode=episode id=episode_nr %}
+  <br>
+{% endfor %}
+</div>
+
+<div class="container hidden-sm-down">
   <br>
   <div class="row">
     <div class="col-4 col-md-3 col-sm-4">

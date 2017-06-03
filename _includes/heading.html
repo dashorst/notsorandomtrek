@@ -1,4 +1,89 @@
+<div class="hidden-md-up">
   <div class="row">
+    <div class="col-4">
+      <a href="{{ site.baseurl }}/"><img src="images/notsorandomtrek.png" class="mb-3" style="max-height:4rem"></a>
+    </div>
+    <div class="col">
+      <p style="font-size: 0.75rem;line-height:1.1em">
+      Two people watch a randomly selected episode of Star Trek and then record a <a href="https://theincomparable.com/randomtrek">podcast about it</a>. A couple of weeks later the podcast is added to this de-randomized list of episodes.</p>
+    </div>
+  </div>
+<!--  <h3>{{ show.name }}</h3> -->
+  <div class="row mb-3">
+    <div class="col text-center">
+      <div class="btn-group">
+{% assign series = site.data.shows | where: 'type', 'series' %}
+{% for s in series %}
+        <a class="btn btn-sm {% if show.id == s.id %}btn-primary{% else %}btn-secondary{% endif %}" href="{{ s.id }}.html" title="{{ s.name }}">{{ s.short }}</a>
+{% endfor %}
+      </div>
+      <div class="btn-group">
+{% assign specials = site.data.shows | where: 'type', 'special' %}
+{% for s in specials %}
+        <a class="btn btn-sm {% if show.id == s.id %}btn-primary{% else %}btn-secondary{% endif %}" href="{{ s.id }}.html" title="{{ s.name }}">{{ s.code }}</a>
+{% endfor %}
+      </div>
+{% unless show.id == 'specials' %}
+      <br><div class="btn-group mt-3">
+{% for season in show.seasons %}
+        <a class="btn btn-sm btn-{% if season.season == page.season %}primary{% else %}secondary{% endif %}" href="{{show.id}}-{{season.code}}.html">S0{{ season.season }}</a>
+{% endfor %}
+      </div>
+{% endunless %}
+
+      <table class="table table-bordered table-sm text-center mt-3 small" style="position:sticky;top:80px">
+{% if show.id != 'rnd' %}
+{% for season in show.seasons %}
+  {% if season.season == page.season  %}
+    {% for i in (1..season.episodes) %}
+      {% assign new_tr = i | modulo:5 %}
+      {% capture lookup %}{{ show.id }}-s0{{ season.season }}e{% if i < 10 %}0{% endif %}{{ i }}{% endcapture %}
+      {% if new_tr == 1 %}
+        <tr>
+      {% endif %}
+      {% assign episode_exists = site.data.ran | where: "id", lookup %}
+      {% if episode_exists != empty %}
+          <td class="btn-primary"><a class="text-white" href="#{{ lookup }}">{% if i < 10 %}&nbsp;{% endif %}{{ i }}</a></td>
+      {% else %}
+          <td><a class="text-muted" >{% if i < 10 %}&nbsp;{% endif %}{{ i }}</a></td>
+      {% endif %}
+      {% if new_tr == 0 or forloop.last %}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+{% else %}
+{% for season in show.seasons %}
+  {% if season.season == page.season  %}
+    {% assign t = page.start | minus: 1 | modulo:5 %}
+    {% assign additional_tds = t %}
+    {% assign end = page.end %}
+    {% for i in (page.start..end) %}
+      {% assign new_tr = i | modulo:5 %}
+      {% assign lookup = i  %}
+      {% if new_tr == 1 %}
+        <tr>
+      {% endif %}
+      {% if forloop.first %}{% for j in (1..additional_tds) %}{% assign f = page.start | minus: additional_tds | plus: j | minus: 1 %}<td><a class="text-muted" >{% if f < 100 %}&nbsp;{% endif %}{% if f < 10 %}&nbsp;{% endif %}{{ f }}</a></td>{% endfor %}{% endif %}
+      {% if i <= maxnr %}
+          <td class="btn-primary"><a class="text-white" href="#{{ lookup }}">{% if i < 100 %}&nbsp;{% endif %}{% if i < 10 %}&nbsp;{% endif %}{{ lookup }}</a></td>
+      {% else %}
+        <td>{{ i }}</td>
+      {% endif %}
+      {% if new_tr == 0 or forloop.last %}
+        </tr>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+{% endif %}
+      </table>
+    </div>
+  </div>
+</div>
+<div class="hidden-sm-down">
+  <div class="row hidden-sm-down">
     <div class="col-4 col-md-3 col-sm-4 hidden-sm-down">
       <a href="{{ site.baseurl }}/"><img src="images/notsorandomtrek.png" class="mb-3" style="max-height:4rem"></a>
     </div>
@@ -6,3 +91,4 @@
       <h2 class="w-100 text-uppercase">{{ show.name }}</h2>
     </div>
   </div>
+</div>

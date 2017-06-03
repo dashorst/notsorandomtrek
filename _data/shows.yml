@@ -1,5 +1,7 @@
 - id: rnd
   code: Random Trek
+  short: RT
+  type: special
   name: Random Trek
   seasons:
   - season: 1
@@ -21,6 +23,8 @@
 
 - id: tos
   code: ST:TOS
+  type: series
+  short: TOS
   name: Star&nbsp;Trek:&#32;The&nbsp;Original&nbsp;Series
   seasons:
   - season: 1
@@ -38,6 +42,8 @@
 
 - id: tng
   code: ST:TNG
+  type: series
+  short: TNG
   name: "Star Trek: The Next Generation"
   seasons:
   - season: 1
@@ -71,6 +77,8 @@
 
 - id: ds9
   code: ST:DS9
+  type: series
+  short: DS9
   name: "Star Trek: Deep Space 9"
   seasons:
   - season: 1
@@ -104,6 +112,8 @@
 
 - id: voy
   code: ST:VOY
+  short: VOY
+  type: series
   name: "Star Trek: Voyager"
   seasons:
   - season: 1
@@ -137,6 +147,8 @@
 
 - id: ent
   code: ST:ENT
+  short: ENT
+  type: series
   name: "Star Trek: Enterprise"
   seasons:
   - season: 1
@@ -158,6 +170,8 @@
 
 - id: specials
   code: Specials
+  short: SPC
+  type: special
   name: Special Episodes
   seasons:
   - season: 0

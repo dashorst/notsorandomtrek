@@ -14,7 +14,7 @@ layout: default
   <br>
   {% include heading.html %}
   <div class="row">
-    <div class="col-4 col-md-3 col-sm-4">
+    <div class="col-4 col-md-3 col-sm-4 hidden-sm-down">
       <div class="list-group">
 {% for s in site.data.shows %}
         <a class="list-group-item{% if s.id == show.id %} active{% endif %}" href="{{ s.id }}.html">{{ s.code }}</a>
@@ -60,7 +60,7 @@ layout: default
       <br>
       {% include about-notsorandomtrek.html %}
     </div>
-    <div class="col-8 col-md-9 col-sm-8">
+    <div class="col">
 {% assign episodes = site.data.ran | sort: 'randomtrek_id' %}
 
 {% for season in show.seasons %}
