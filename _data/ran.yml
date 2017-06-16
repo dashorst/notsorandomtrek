@@ -5258,3 +5258,29 @@
       name: Scott McNulty
     - code: melissa-bright
       name: Melissa Bright
+- id: ds9-s05e06
+  show: ds9
+  season: 5
+  episode: 6
+  code: S05E06
+  randomtrek_id: 152
+  title: "Trials and Tribble-ations"
+  description: >
+    "When Temporal Investigations arrives on Deep Space 9, Sisko recounts how he and the crew of the Defiant traveled back in time to the 23rd century to prevent the assassination of Captain James T. Kirk during the original Enterprise's mission to Space Station K-7. Lucsly and Dulmur from Temporal Investigations arrive on Deep Space 9 and are welcomed into Ops by Major Kira and Lieutenant Commander Dax. The investigators ask for Captain Sisko, and Kira directs them to his office. Before they go..."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Trials_and_Tribble-ations_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum2I3cmM
+  randomtrek:
+    randomtrek_id: 152
+    date: 2017-06-15
+    duration: 43
+    size: 30
+    description: >
+      "<p><a href="https://twitter.com/macgenie">Jean MacDonald</a>, community manager at <a href="https://micro.blog/">Micro.blog</a> and founder of <a href="http://appcamp4girls.com/">AppCamp4Girls</a>, joins Scott to discuss DS9’s “<a href="http://memory-alpha.wikia.com/wiki/Trials_and_Tribble-ations_(episode)">Trials Tribble-ations</a>” (S5E6). Topics include how great this episode is, Scott’s favorite parts, and if this is a good episode to introduce Deep Space Nine to your non-Star Trek interested friends.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: jean-macdonald
+      name: Jean MacDonald
