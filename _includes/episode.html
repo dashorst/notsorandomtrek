@@ -1,10 +1,12 @@
 {% assign ep = include.episode %}
 {% capture rt_url %}https://www.theincomparable.com/randomtrek/{{ ep.randomtrek.randomtrek_id }}{% endcapture %}
       <div class="card" id="{{ include.id }}">
+        <img class="hidden-md-up card-img-top w-100" src="images/rt{{ ep.randomtrek.randomtrek_id }}.jpg">
         <div class="card-block">
           <div class="row">
-            <div class="col-md-5 text-center">
-              <img class="w-100 img-thumbnail" src="images/rt{{ ep.randomtrek.randomtrek_id }}.jpg">
+              <div class="col-md-5 text-center">
+              <img class="hidden-sm-down w-100 img-thumbnail" src="images/rt{{ ep.randomtrek.randomtrek_id }}.jpg">
+              <h3 class="hidden-md-up">{{ ep.title }}</h3>
               <p class="small">{{ ep.code }} • “{{ ep.title }}”
                 <br>
                 <a href="{{ rt_url }}">Random Trek #{{ ep.randomtrek.randomtrek_id }}</a> •
@@ -39,7 +41,7 @@
 {% for host in ep.randomtrek.hosts %}{% unless host.code == 'scott-mcnulty %}{% assign nonScottHost = host  %}{% break %}{% endunless %}{% endfor %}
     
             <div class="col-md-7">
-              <h3>{{ ep.title }}</h3>
+              <h3 class="hidden-sm-down">{{ ep.title }}</h3>
               {% capture length %}{{ ep.description.size | minus: 3 }}{% endcapture %}
               <p class="lead">{{ ep.description | rstrip | slice: 1, length }}</p>
               <h5>Random Trek #{{ ep.randomtrek.randomtrek_id }}{% if nonScottHost %} with {{ nonScottHost.name }}{% endif %}</h5>
