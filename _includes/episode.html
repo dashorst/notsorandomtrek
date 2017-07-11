@@ -49,12 +49,12 @@
               {{ ep.randomtrek.description | rstrip | slice: 1, length }}
 
 {% if ep.randomtrek.hosts %}
-            <h5>Hosts</h5>
-            <ul class="list-inline">
+              <h5>Hosts</h5>
+              <ul class="list-inline">
   {% for host in ep.randomtrek.hosts %}
-              <li><a class="alist-group-item alist-group-item-action apx-0" href="https://www.theincomparable.com/person/{{ host.code }}">{{ host.name }}</a></li>
+                <li><a class="alist-group-item alist-group-item-action apx-0" href="https://www.theincomparable.com/person/{{ host.code }}">{{ host.name }}</a></li>
   {% endfor %}
-            </ul>
+              </ul>
 {% endif %}
               <a href="#" class="float-right hidden-md-up btn btn-sm btn-secondary" onclick="window.scrollTo(0,0);return false;">&uarr;</a>
             </div>

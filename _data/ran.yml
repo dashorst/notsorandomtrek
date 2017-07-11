@@ -5334,3 +5334,29 @@
       name: Scott McNulty
     - code: clint-ecker
       name: Clint Ecker
+- id: ds9-s01e07
+  show: ds9
+  season: 1
+  episode: 7
+  code: S01E07
+  randomtrek_id: 155
+  title: "Q-Less"
+  description: >
+    "Archaeologist Vash arrives from the Gamma Quadrant as Q plagues the station and an unknown force threatens to destroy it."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Q-Less_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum0MdBZQ
+  randomtrek:
+    randomtrek_id: 155
+    date: 2017-07-06
+    duration: 45
+    size: 31
+    description: >
+      "<a href="https://twitter.com/angelicabastien">Angelica Bastién</a>, <a href="http://madwomenandmuses.com/">essayist and writer</a>, joins Scott to discuss DS9’s “<a href="http://memory-alpha.wikia.com/wiki/Q-Less_(episode)">Q-Less</a>” (S1E7). Topics include how the Klingons have had enough time in the limelight, Ezri Dax (not appearing this in episode), and how terrible Wesley Crusher is (who also doesn’t appear in this episode). Fair warning, this episode of Random Trek features some red alerts. You’ve been warned."
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: angelica-jade-bastien
+      name: Angelica Jade Bastién
