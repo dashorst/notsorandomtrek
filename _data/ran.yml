@@ -5438,3 +5438,29 @@
       name: Scott McNulty
     - code: kathy-campbell
       name: Kathy Campbell
+- id: tos-s01e09
+  show: tos
+  season: 1
+  episode: 9
+  code: S01E09
+  randomtrek_id: 159
+  title: "What Are Little Girls Made Of?"
+  description: >
+    "The Enterprise finds archaeologist Dr. Roger Korby, who has been missing for five years, living underground on a deserted ice planet with a group of sophisticated androids."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/What_Are_Little_Girls_Made_Of%3F_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum3jbRH0
+  randomtrek:
+    randomtrek_id: 159
+    date: 2017-08-17
+    duration: 49
+    size: 34
+    description: >
+      "<p><a href="https://twitter.com/Moltz">John Moltz</a>, <a href="http://verynicewebsite.net/">freelance writer</a> and podcaster (<a href="http://reboundcast.com/">tech here</a>, <a href="http://turningthiscararound.com/">parenting here</a>), joins Scott to discuss TOS’s “<a href="http://memory-alpha.wikia.com/wiki/What_Are_Little_Girls_Made_Of%3F_(episode)">What Are Little Girls Made Of?</a>” (S1E9). Topics include strange rock formations, why you should never trust anyone who claims to own an android, and Capt. Kirk’s magic kisses.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: john-moltz
+      name: John Moltz
