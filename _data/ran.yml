@@ -5464,3 +5464,29 @@
       name: Scott McNulty
     - code: john-moltz
       name: John Moltz
+- id: voy-s06e04
+  show: voy
+  season: 6
+  episode: 4
+  code: S06E04
+  randomtrek_id: 160
+  title: "Tinker Tenor Doctor Spy"
+  description: >
+    "Aliens attempt to spy on Voyager by tapping into The Doctor's program, but they mistakenly access his new "daydream" program and believe that to be the reality."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Tinker_Tenor_Doctor_Spy_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum3Fp7CQ
+  randomtrek:
+    randomtrek_id: 160
+    date: 2017-08-31
+    duration: 43
+    size: 30
+    description: >
+      "<p><a href="https://twitter.com/helenewecker">Helene Wecker</a>, author of “<a href="http://amzn.to/2wm7Mvn">The Golem and the Jinni</a>”, joins Scott to discuss VOY’s “<a href="http://memory-alpha.wikia.com/wiki/Tinker_Tenor_Doctor_Spy_(episode)">Tinker Tenor Doctor Spy</a>” (S6E4). Topics include the reasons not to project someone’s fantasies in the holodeck, Harry Kim being the worst, and dramatically appearing pips.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: helene-wecker
+      name: Helene Wecker
