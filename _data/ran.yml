@@ -5543,3 +5543,30 @@
       name: Jason Snell
     - code: aleen-simms
       name: Aleen Simms
+- id: disc-s01e02
+  show: disc
+  season: 1
+  episode: 2
+  code: S01E02
+  randomtrek_id: 902
+  title: "Battle at the Binary Stars"
+  description: >
+      "Face to face with Klingon vessels, the USS Shenzhou prepares for the possibility of war if negotiations fail. Amidst the turmoil, Burnham looks back to her Vulcan upbringing for guidance."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Battle_at_the_Binary_Stars_(episode)
+  itunes: https://geo.itunes.apple.com/us/podcast/teevee/id174369831
+  pocketcasts: http://pca.st/teevee
+  overcast: https://overcast.fm/itunes174369831/teevee
+  overcast_episode: https://overcast.fm/+BmF7xuCmM
+  randomtrek:
+    randomtrek_id: 902
+    date: 2017-09-25
+    duration: 51
+    description: >
+      "<p>Note: this episode aired on the teevee podcast.</p><p>We’re back to discuss the second episode of “Star Trek: Discovery!” Burnham has to deal with her mutinous actions. We get too many Klingons, including a flashback. Ensign Head Wound meets a confused end. Sarek sends a long-distance mental pep talk. And Captain Georgiou meets the fate of all Special Guest Stars. Onward to the dark Starfleet chamber of justice!</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: jason-snell
+      name: Jason Snell
+    - code: brianna-wu
+      name: Brianna Wu
