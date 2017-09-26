@@ -33,12 +33,9 @@ layout: default
       </div>
     </div>
   </div>
-{% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
-{% assign maxnr = maxnr | plus: 0 %}
-{% for i in (0..4) %}
-  {% assign episode_nr = maxnr | minus: i %}
-  {% assign episode = site.data.ran | where: 'randomtrek_id', episode_nr | first %}
-  {% include episode.html episode=episode id=episode_nr %}
+{% assign episodes = site.data.ran | reverse %}
+{% for episode in episodes limit:5 %}
+  {% include episode.html episode=episode id=episode.randomtrek_id %}
   <br>
 {% endfor %}
 </div>
@@ -74,12 +71,9 @@ layout: default
           <a href="https://github.com/dashorst/notsorandomtrek/blob/master/README.md">About this website</a>
       </div>
 
-{% capture maxnr %}{{site.data.ran | sort: 'randomtrek_id' | last | map: 'randomtrek_id' }}{% endcapture %}
-{% assign maxnr = maxnr | plus: 0 %}
-{% for i in (0..4) %}
-  {% assign episode_nr = maxnr | minus: i %}
-  {% assign episode = site.data.ran | where: 'randomtrek_id', episode_nr | first %}
-  {% include episode.html episode=episode id=episode_nr %}
+{% assign episodes = site.data.ran | reverse %}
+{% for episode in episodes limit:5 %}
+  {% include episode.html episode=episode id=episode.randomtrek_id %}
   <br>
 {% endfor %}
     </div>
