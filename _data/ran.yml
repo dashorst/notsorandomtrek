@@ -5516,3 +5516,30 @@
       name: Scott McNulty
     - code: glenn-fleishman
       name: Glenn Fleishman
+- id: disc-s01e01
+  show: disc
+  season: 1
+  episode: 1
+  code: S01E01
+  randomtrek_id: 901
+  title: "The Vulcan Hello"
+  description: >
+      "While patrolling Federation space, the USS Shenzhou encounters an object of unknown origin, putting First Officer Michael Burnham to her greatest test yet."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/The_Vulcan_Hello_(episode)
+  itunes: https://geo.itunes.apple.com/us/podcast/teevee/id174369831
+  pocketcasts: http://pca.st/teevee
+  overcast: https://overcast.fm/itunes174369831/teevee
+  overcast_episode: https://overcast.fm/+BmF58HU_M
+  randomtrek:
+    randomtrek_id: 901
+    date: 2017-09-24
+    duration: 61
+    description: >
+      "<p>Note: this episode aired on the teevee podcast.</p><p>Hello, humans! A new Star Trek series has appeared and in this episode we review the one hour premiere of “Star Trek: Discovery.” We discuss the comportment of bridge officers, the “Star Trek: Shenzhou” prequel series we never saw, the appearance of the Star Trek Sound Effects pack, why Vulcans are kind of jerks, and the validity of using small caps in your caption font. And much, much more!</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: jason-snell
+      name: Jason Snell
+    - code: aleen-simms
+      name: Aleen Simms
