@@ -5596,3 +5596,30 @@
       name: Scott McNulty
     - code: aleen-simms
       name: Aleen Simms
+- id: disc-s01e03
+  show: disc
+  season: 1
+  episode: 3
+  code: S01E03
+  randomtrek_id: 903
+  title: "Context is for Kings"
+  description: >
+      "Michael Burnham finds herself aboard the USS Discovery, where she quickly realizes things are not as they seem, including the mysterious Captain Gabriel Lorca."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Context_Is_for_Kings_(episode)
+  itunes: https://geo.itunes.apple.com/us/podcast/teevee/id174369831
+  pocketcasts: http://pca.st/teevee
+  overcast: https://overcast.fm/itunes174369831/teevee
+  overcast_episode: https://overcast.fm/+BmF7xiOOI
+  randomtrek:
+    randomtrek_id: 903
+    date: 2017-10-02
+    duration: 58
+    description: >
+      "<p>Note: this episode aired on the teevee podcast.</p><p>This week Scott is joined by two Scots to discuss Michael Burnham’s arrival on the USS Discovery. Vulcan martial arts! Gorn skeletons! The horrors of creepy alien monsters and perky roommates! This episode has it all… even a zipper and a Tribble.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: liz-myles
+      name: Liz Myles
+    - code: james-thomson
+      name: James Thomson
