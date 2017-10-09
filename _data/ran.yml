@@ -5649,3 +5649,28 @@
       name: Scott McNulty
     - code: husani-oakley
       name: Husani Oakley
+- id: disc-s01e04
+  show: disc
+  season: 1
+  episode: 4
+  code: S01E04
+  randomtrek_id: 904
+  title: "The Butcher’s Knife Cares Not For the Lamb’s Cry"
+  description: >
+      "Dan Moren joins Scott to discuss an episode featuring a surprise death at the hand of a not-so-monstrous monster, a whole lot more Klingon dialogue, a Special Guest Hologram, and the series’ first successful spore-enabled jump."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/The_Butcher%27s_Knife_Cares_Not_for_the_Lamb%27s_Cry_(episode)
+  itunes: https://geo.itunes.apple.com/us/podcast/teevee/id174369831
+  pocketcasts: http://pca.st/teevee
+  overcast: https://overcast.fm/itunes174369831/teevee
+  overcast_episode: https://overcast.fm/+BmF6COKUY
+  randomtrek:
+    randomtrek_id: 904
+    date: 2017-10-09
+    duration: 58
+    description: >
+      "<p>Note: this episode aired on the teevee podcast.</p><p>Dan Moren joins Scott to discuss an episode featuring a surprise death at the hand of a not-so-monstrous monster, a whole lot more Klingon dialogue, a Special Guest Hologram, and the series’ first successful spore-enabled jump.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: dan-moren
+      name: Dan Moren
