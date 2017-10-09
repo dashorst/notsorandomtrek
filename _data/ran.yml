@@ -5570,3 +5570,29 @@
       name: Jason Snell
     - code: brianna-wu
       name: Brianna Wu
+- id: ds9-s03e09
+  show: ds9
+  season: 3
+  episode: 9
+  code: S03E09
+  randomtrek_id: 162
+  title: "Defiant"
+  description: >
+    "When Commander William T. Riker from the Enterprise-D arrives on Deep Space 9, he takes a liking to Kira, who gives him a tour of the Defiant. But Riker is revealed to be not who he claims to be when he attacks Kira and steals the Defiant."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Defiant_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum2FbugM
+  randomtrek:
+    randomtrek_id: 162
+    date: 2017-09-29
+    duration: 44
+    size: 30
+    description: >
+      "<p><a href="https://twitter.com/Aleen">Aleen Simms</a>, <a href="https://www.relay.fm/originality/">podcaster</a> and <a href="https://applaunchmap.com/">App Launcher</a>, joins Scott to discuss DS9’s “<a href="http://memory-alpha.wikia.com/wiki/Defiant_(episode)"> Defiant</a>” (S3E09). Topics include how pretty William T. Riker is, why Kira needs to solve everyone’s problems, and Scott’s continual failure to pronounce names correctly.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: aleen-simms
+      name: Aleen Simms
