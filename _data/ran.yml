@@ -5674,3 +5674,29 @@
       name: Scott McNulty
     - code: dan-moren
       name: Dan Moren
+- id: ent-s02e16
+  show: ent
+  season: 2
+  episode: 16
+  code: S02E16
+  randomtrek_id: 164
+  title: "Future Tense"
+  description: >
+    "Enterprise finds a small craft – apparently from the future – adrift in space, and both the Suliban and the mysterious Tholians are intent on retrieving it."
+  memoryalpha: http://memory-alpha.wikia.com/wiki/Future_Tense_(episode)
+  itunes: https://itunes.apple.com/us/podcast/random-trek/id883813961
+  pocketcasts: http://pca.st/randomtrek
+  overcast: https://overcast.fm/itunes883813961/random-trek
+  overcast_episode: https://overcast.fm/+Bum3Z8MQc
+  randomtrek:
+    randomtrek_id: 164
+    date: 2017-10-12
+    duration: 42
+    size: 28
+    description: >
+      "<p><a href="https://twitter.com/marusula/">Marisa McClellan</a>, <a href="http://www.foodinjars.com/">canning expert</a> and one half of <a href="http://www.localmouthful.com/">Local Mouthful</a> joins Scott to discuss ENT’s “<a href="http://memory-alpha.wikia.com/wiki/Future_Tense_(episode)">Future Tense</a>” (S2E16). Topics include odd firing stances, the Temporal Cold War, and the many ways this episode could have been improved.</p>"
+    hosts:
+    - code: scott-mcnulty
+      name: Scott McNulty
+    - code: marisa-mcclellan
+      name: Marisa McClellan
